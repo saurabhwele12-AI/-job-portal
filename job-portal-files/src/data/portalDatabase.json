@@ -1,0 +1,3002 @@
+{
+  "jobs": [
+    {
+      "id": "tech-intelligent-automation-engineer-uipath-458490",
+      "slug": "live-intelligent-automation-engineer-uipath-458490",
+      "title": "Intelligent Automation Engineer  - UiPath",
+      "organization": {
+        "name": "roboyo",
+        "shortName": "ROBO",
+        "logoText": "ROB",
+        "badgeColor": "bg-emerald-600",
+        "verified": true
+      },
+      "sector": "PRIVATE",
+      "category": "Software & Engineering",
+      "totalVacancies": 15,
+      "location": "Remote",
+      "workMode": "REMOTE",
+      "importantDates": {
+        "notificationDate": "Today",
+        "applyStartDate": "Today",
+        "applyEndDate": "Open until filled",
+        "daysRemaining": 25
+      },
+      "eligibility": {
+        "education": [
+          "B.Tech / BCA / Degree in Computer Science or self-taught portfolio"
+        ],
+        "experience": "Freshers & Experienced Candidates welcome",
+        "skills": [
+          "Delivery"
+        ]
+      },
+      "compensation": {
+        "salaryOrPayScale": "₹18 - ₹35 LPA",
+        "applicationFeeGeneral": 0,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Resume Shortlisting",
+        "Technical Coding Round",
+        "Hiring Manager Call"
+      ],
+      "summary": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Roboyo&amp;nbsp;AI&amp;nbsp;is a category shaper in Applied AI and Agentic Automation.&amp;...",
+      "links": {
+        "applyUrl": "https://www.arbeitnow.com/jobs/companies/roboyo/intelligent-automation-engineer-uipath-458490",
+        "officialWebsiteUrl": "https://www.arbeitnow.com/jobs/companies/roboyo/intelligent-automation-engineer-uipath-458490"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "viewsCount": 150
+    },
+    {
+      "id": "tech-senior-intelligent-automation-engineer-uipath-berlin-274186",
+      "slug": "live-senior-intelligent-automation-engineer-uipath-berlin-274186",
+      "title": "Senior Intelligent Automation Engineer  - UiPath",
+      "organization": {
+        "name": "roboyo",
+        "shortName": "ROBO",
+        "logoText": "ROB",
+        "badgeColor": "bg-emerald-600",
+        "verified": true
+      },
+      "sector": "PRIVATE",
+      "category": "Software & Engineering",
+      "totalVacancies": 15,
+      "location": "Berlin",
+      "workMode": "REMOTE",
+      "importantDates": {
+        "notificationDate": "Today",
+        "applyStartDate": "Today",
+        "applyEndDate": "Open until filled",
+        "daysRemaining": 25
+      },
+      "eligibility": {
+        "education": [
+          "B.Tech / BCA / Degree in Computer Science or self-taught portfolio"
+        ],
+        "experience": "Freshers & Experienced Candidates welcome",
+        "skills": [
+          "Delivery"
+        ]
+      },
+      "compensation": {
+        "salaryOrPayScale": "₹18 - ₹35 LPA",
+        "applicationFeeGeneral": 0,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Resume Shortlisting",
+        "Technical Coding Round",
+        "Hiring Manager Call"
+      ],
+      "summary": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Roboyo&amp;nbsp;AI&amp;nbsp;is a category shaper in Applied AI and Agentic Automation.&amp;...",
+      "links": {
+        "applyUrl": "https://www.arbeitnow.com/jobs/companies/roboyo/senior-intelligent-automation-engineer-uipath-berlin-274186",
+        "officialWebsiteUrl": "https://www.arbeitnow.com/jobs/companies/roboyo/senior-intelligent-automation-engineer-uipath-berlin-274186"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "viewsCount": 150
+    },
+    {
+      "title": "Microsoft Azure Data Engineer (India Development Centre) 2026",
+      "organization": {
+        "name": "Microsoft Corporation India",
+        "shortName": "MSFT",
+        "logoText": "MSFT",
+        "badgeColor": "bg-blue-600",
+        "verified": true
+      },
+      "sector": "PRIVATE",
+      "category": "Big Data & AI",
+      "totalVacancies": 110,
+      "location": "Bengaluru / Noida (Hybrid)",
+      "workMode": "HYBRID",
+      "eligibility": {
+        "education": [
+          "B.Tech / BE in Computer Science, Data Science, or related engineering"
+        ],
+        "experience": "0 - 3 Years / Freshers with relevant internships eligible",
+        "skills": [
+          "Python",
+          "SQL",
+          "Apache Spark",
+          "Azure Data Factory",
+          "Data Warehousing"
+        ]
+      },
+      "compensation": {
+        "salaryOrPayScale": "₹26 - 40 LPA + Microsoft Stock Awards",
+        "applicationFeeGeneral": 0,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Technical Screening",
+        "System Design & Data Structures",
+        "Culture Fit"
+      ],
+      "summary": "Develop hyperscale analytical pipelines and AI data foundations for Azure OpenAI, Microsoft Fabric, and global cloud intelligence.",
+      "links": {
+        "applyUrl": "https://careers.microsoft.com",
+        "officialWebsiteUrl": "https://microsoft.com"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-central-5-2026-10",
+      "slug": "msft-microsoft-azure-data-engineer-india-developme",
+      "importantDates": {
+        "notificationDate": "Today (Gazetted)",
+        "applyStartDate": "Today",
+        "applyEndDate": "30 Oct 2026",
+        "daysRemaining": 8,
+        "examDate": "Coming Session 2026"
+      },
+      "viewsCount": 2900
+    },
+    {
+      "title": "Google Cloud Software Engineer (L3/L4) 2026 Hiring Drive",
+      "organization": {
+        "name": "Google LLC India",
+        "shortName": "GOOGLE",
+        "logoText": "GOOG",
+        "badgeColor": "bg-red-600",
+        "verified": true
+      },
+      "sector": "PRIVATE",
+      "category": "Cloud & Systems",
+      "totalVacancies": 85,
+      "location": "Bengaluru / Hyderabad (Hybrid)",
+      "workMode": "HYBRID",
+      "eligibility": {
+        "education": [
+          "B.Tech / M.Tech in CS, IT, ECE or equivalent practical experience"
+        ],
+        "experience": "1 - 4 Years Software Development Experience",
+        "skills": [
+          "Go",
+          "Java",
+          "Distributed Systems",
+          "Kubernetes",
+          "Python"
+        ]
+      },
+      "compensation": {
+        "salaryOrPayScale": "₹32 - 48 LPA (Base + RSUs + Annual Bonus)",
+        "applicationFeeGeneral": 0,
+        "applicationFeeReserved": 0,
+        "feeNote": "Zero fee. Direct corporate hiring portal."
+      },
+      "selectionProcess": [
+        "Online Coding Assessment",
+        "2x Technical Problem Solving",
+        "Googleyness & Leadership"
+      ],
+      "summary": "Build high-scale distributed systems and enterprise infrastructure for Google Cloud Platform powering millions of businesses globally.",
+      "links": {
+        "applyUrl": "https://careers.google.com/jobs/results",
+        "officialWebsiteUrl": "https://careers.google.com"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-central-4-2026-10",
+      "slug": "google-google-cloud-software-engineer-l3-l4-2026-hir",
+      "importantDates": {
+        "notificationDate": "Today (Gazetted)",
+        "applyStartDate": "Today",
+        "applyEndDate": "30 Oct 2026",
+        "daysRemaining": 10,
+        "examDate": "Coming Session 2026"
+      },
+      "viewsCount": 2560
+    },
+    {
+      "title": "Reserve Bank of India (RBI) Grade \"B\" Officers Recruitment 2026",
+      "organization": {
+        "name": "Reserve Bank of India",
+        "shortName": "RBI",
+        "logoText": "RBI",
+        "badgeColor": "bg-amber-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Banking & Finance",
+      "totalVacancies": 291,
+      "location": "Mumbai / Delhi / Kolkata / Chennai",
+      "eligibility": {
+        "education": [
+          "Bachelor's Degree with minimum 60% marks in aggregate"
+        ],
+        "minAge": 21,
+        "maxAge": 30,
+        "ageRelaxation": "OBC: 3 Yrs | SC/ST: 5 Yrs | PwBD: 10 Yrs",
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Starting Gross ₹1,16,684/mo + Official Quarters",
+        "applicationFeeGeneral": 850,
+        "applicationFeeReserved": 100
+      },
+      "selectionProcess": [
+        "Phase-I Online Exam",
+        "Phase-II Descriptive & Objective",
+        "Phase-III Interview"
+      ],
+      "summary": "Apex banking regulatory appointment for Officers in Grade B (General, DEPR, DSIM streams). High prestige central banking career.",
+      "links": {
+        "applyUrl": "https://rbi.org.in/careers",
+        "officialWebsiteUrl": "https://rbi.org.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-central-3-2026-10",
+      "slug": "rbi-reserve-bank-of-india-rbi-grade-b-officers-re",
+      "importantDates": {
+        "notificationDate": "Today (Gazetted)",
+        "applyStartDate": "Today",
+        "applyEndDate": "30 Oct 2026",
+        "daysRemaining": 12,
+        "examDate": "Coming Session 2026"
+      },
+      "viewsCount": 2220
+    },
+    {
+      "title": "Railway Recruitment Board (RRB) Non-Technical Popular Categories (NTPC) 2026",
+      "organization": {
+        "name": "Railway Recruitment Boards",
+        "shortName": "RRB",
+        "logoText": "RRB",
+        "badgeColor": "bg-emerald-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Railways",
+      "totalVacancies": 11558,
+      "location": "All India Railway Zones",
+      "eligibility": {
+        "education": [
+          "Graduate in any discipline (Level 5 & 6) / 12th Pass (Level 2 & 3)"
+        ],
+        "minAge": 18,
+        "maxAge": 33,
+        "ageRelaxation": "OBC: 3 Yrs | SC/ST: 5 Yrs",
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "₹21,700 - ₹45,000/mo + Railway Free Pass Allowances",
+        "applicationFeeGeneral": 500,
+        "applicationFeeReserved": 250,
+        "feeNote": "₹400 / ₹250 refunded upon attending CBT-1."
+      },
+      "selectionProcess": [
+        "1st Stage CBT",
+        "2nd Stage CBT",
+        "Typing Skill Test / CBAT",
+        "Document Verification"
+      ],
+      "summary": "Mega recruitment notification for Station Master, Goods Train Manager, Senior Commercial Clerk, and Accounts Clerk cum Typist across 21 RRB divisions.",
+      "links": {
+        "applyUrl": "https://rrbapply.gov.in",
+        "officialWebsiteUrl": "https://indianrailways.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-central-2-2026-10",
+      "slug": "rrb-railway-recruitment-board-rrb-non-technical-p",
+      "importantDates": {
+        "notificationDate": "Today (Gazetted)",
+        "applyStartDate": "Today",
+        "applyEndDate": "30 Oct 2026",
+        "daysRemaining": 14,
+        "examDate": "Coming Session 2026"
+      },
+      "viewsCount": 1880
+    },
+    {
+      "title": "DRDO CEPTAM-11 Senior Technical Assistant (STA-B) Recruitment 2026",
+      "organization": {
+        "name": "Defence Research & Development Organisation",
+        "shortName": "DRDO",
+        "logoText": "DRDO",
+        "badgeColor": "bg-blue-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Defense & Research",
+      "totalVacancies": 1075,
+      "location": "All India DRDO Labs",
+      "eligibility": {
+        "education": [
+          "Diploma in Engineering / B.Sc in Allied Science Disciplines"
+        ],
+        "minAge": 18,
+        "maxAge": 28,
+        "ageRelaxation": "OBC: 3 Yrs | SC/ST: 5 Yrs",
+        "experience": "Freshers Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Matrix Level-6 (₹35,400 - ₹1,12,400/mo)",
+        "applicationFeeGeneral": 100,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Tier-I Computer Based Screening",
+        "Tier-II Trade / Technical Test"
+      ],
+      "summary": "Centre for Personnel Talent Management (CEPTAM) announces nationwide vacancies for technical assistants across 50+ DRDO laboratories.",
+      "links": {
+        "applyUrl": "https://drdo.gov.in/ceptam-11",
+        "officialWebsiteUrl": "https://drdo.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-central-1-2026-10",
+      "slug": "drdo-drdo-ceptam-11-senior-technical-assistant-sta",
+      "importantDates": {
+        "notificationDate": "Today (Gazetted)",
+        "applyStartDate": "Today",
+        "applyEndDate": "30 Oct 2026",
+        "daysRemaining": 16,
+        "examDate": "Coming Session 2026"
+      },
+      "viewsCount": 1540
+    },
+    {
+      "title": "ISRO Scientist / Engineer \"SC\" Recruitment 2026",
+      "organization": {
+        "name": "Indian Space Research Organisation",
+        "shortName": "ISRO",
+        "logoText": "ISRO",
+        "badgeColor": "bg-orange-600",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Space & Tech",
+      "totalVacancies": 325,
+      "location": "Bengaluru / Sriharikota / Thiruvananthapuram",
+      "eligibility": {
+        "education": [
+          "B.E / B.Tech in Electronics / Mechanical / Computer Science (Min 65% Marks)"
+        ],
+        "minAge": 21,
+        "maxAge": 30,
+        "ageRelaxation": "OBC: 3 Years | SC/ST: 5 Years",
+        "experience": "Fresher Eligible (GATE 2025/2026 Score Valid)"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Level-10 (₹56,100 - ₹1,77,500/mo) + HRA & DA",
+        "applicationFeeGeneral": 750,
+        "applicationFeeReserved": 0,
+        "feeNote": "Exempt for Women/SC/ST/PwBD candidates."
+      },
+      "selectionProcess": [
+        "GATE Score Screening",
+        "Written Test",
+        "Personal Interview"
+      ],
+      "summary": "ISRO Centralised Recruitment Board invites applications for Scientists/Engineers in Electronics, Mechanical, and Computer Science disciplines.",
+      "links": {
+        "applyUrl": "https://isro.gov.in/careers",
+        "officialWebsiteUrl": "https://isro.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-central-0-2026-10",
+      "slug": "isro-isro-scientist-engineer-sc-recruitment-2026",
+      "importantDates": {
+        "notificationDate": "Today (Gazetted)",
+        "applyStartDate": "Today",
+        "applyEndDate": "30 Oct 2026",
+        "daysRemaining": 18,
+        "examDate": "Coming Session 2026"
+      },
+      "viewsCount": 1200
+    },
+    {
+      "title": "Punjab Police District Police Cadre Constable 2026 Recruitment",
+      "organization": {
+        "name": "Punjab Police Recruitment Board",
+        "shortName": "PBP",
+        "logoText": "PBP",
+        "badgeColor": "bg-amber-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Police / State Govt",
+      "state": "PB",
+      "totalVacancies": 1746,
+      "location": "Punjab Districts",
+      "qualificationLevel": "12th",
+      "eligibility": {
+        "education": [
+          "10+2 (Intermediate) with Punjabi as a compulsory subject in Matriculation"
+        ],
+        "minAge": 18,
+        "maxAge": 28,
+        "ageRelaxation": "SC/BC: 5 Years | Ex-Servicemen: 3 Years",
+        "experience": "Freshers Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Scale Level-2 (₹19,900/mo initial pay)",
+        "applicationFeeGeneral": 1150,
+        "applicationFeeReserved": 650
+      },
+      "selectionProcess": [
+        "Computer Based Test (CBT - 2 Papers)",
+        "Physical Screening Test (PST)",
+        "Document Verification"
+      ],
+      "summary": "Constables in District Police and Armed Police Cadres of Punjab Police Department.",
+      "links": {
+        "applyUrl": "https://punjabpolice.gov.in",
+        "officialWebsiteUrl": "https://punjabpolice.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-pb-9-2026",
+      "slug": "pb-pbp-punjab-police-district-police-cadre-cons",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "17 Oct 2026",
+        "daysRemaining": 10,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 6280
+    },
+    {
+      "title": "MPPSC Madhya Pradesh State Service Exam (SSE) 2026",
+      "organization": {
+        "name": "Madhya Pradesh Public Service Commission",
+        "shortName": "MPPSC",
+        "logoText": "MPPSC",
+        "badgeColor": "bg-emerald-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State PSC",
+      "state": "MP",
+      "totalVacancies": 229,
+      "location": "Indore, Bhopal & MP Districts",
+      "qualificationLevel": "graduate",
+      "eligibility": {
+        "education": [
+          "Graduate Degree in any discipline from recognized University"
+        ],
+        "minAge": 21,
+        "maxAge": 40,
+        "ageRelaxation": "SC/ST/OBC/Female: 5 Years",
+        "experience": "Freshers Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Scale ₹56,100 - ₹1,77,500/mo (Grade Pay ₹5,400)",
+        "applicationFeeGeneral": 500,
+        "applicationFeeReserved": 250
+      },
+      "selectionProcess": [
+        "State Service Preliminary Exam",
+        "State Service Main Exam",
+        "Interview"
+      ],
+      "summary": "State Administrative Service Deputy Collector, Deputy Superintendent of Police (DSP) and Commercial Tax Officers.",
+      "links": {
+        "applyUrl": "https://mppsc.mp.gov.in",
+        "officialWebsiteUrl": "https://mppsc.mp.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-mp-8-2026",
+      "slug": "mp-mppsc-mppsc-madhya-pradesh-state-service-exam-",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "20 Oct 2026",
+        "daysRemaining": 13,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 5860
+    },
+    {
+      "title": "WBPRB West Bengal Police Sub-Inspector (UB & AB) 2026 Recruitment",
+      "organization": {
+        "name": "West Bengal Police Recruitment Board",
+        "shortName": "WBPRB",
+        "logoText": "WBPRB",
+        "badgeColor": "bg-sky-900",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Police / State Govt",
+      "state": "WB",
+      "totalVacancies": 1131,
+      "location": "West Bengal Police Commissionerates",
+      "qualificationLevel": "graduate",
+      "eligibility": {
+        "education": [
+          "Bachelor's Degree in any discipline + Bengali speaking/reading ability"
+        ],
+        "minAge": 20,
+        "maxAge": 30,
+        "ageRelaxation": "SC/ST: 5 Years | OBC: 3 Years",
+        "experience": "Freshers Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Matrix Level-10 (₹32,100 - ₹82,900/mo)",
+        "applicationFeeGeneral": 270,
+        "applicationFeeReserved": 20
+      },
+      "selectionProcess": [
+        "Preliminary Screening Examination",
+        "Physical Measurement & Efficiency Test (PMT & PET)",
+        "Final Combined Competitive Exam",
+        "Personality Test"
+      ],
+      "summary": "Sub-Inspector and Sub-Inspectress in Unarmed Branch (UB) and Armed Branch (AB) of West Bengal Police.",
+      "links": {
+        "applyUrl": "https://prb.wb.gov.in",
+        "officialWebsiteUrl": "https://wbpolice.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-wb-7-2026",
+      "slug": "wb-wbprb-wbprb-west-bengal-police-sub-inspector-u",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "23 Oct 2026",
+        "daysRemaining": 16,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 5440
+    },
+    {
+      "title": "KEA Karnataka First Division Assistant (FDA) & SDA Recruitment 2026",
+      "organization": {
+        "name": "Karnataka Examinations Authority",
+        "shortName": "KEA",
+        "logoText": "KEA",
+        "badgeColor": "bg-red-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State Govt",
+      "state": "KA",
+      "totalVacancies": 1850,
+      "location": "Bengaluru & Karnataka Districts",
+      "qualificationLevel": "graduate",
+      "eligibility": {
+        "education": [
+          "Bachelor's Degree in any discipline (FDA) / 12th Pass (SDA) + Kannada Language test"
+        ],
+        "minAge": 18,
+        "maxAge": 35,
+        "ageRelaxation": "2A/2B/3A/3B: 3 Years | SC/ST/Cat-I: 5 Years",
+        "experience": "Freshers Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Scale ₹27,650 - ₹52,650/mo",
+        "applicationFeeGeneral": 750,
+        "applicationFeeReserved": 250
+      },
+      "selectionProcess": [
+        "Compulsory Kannada Exam",
+        "General English / General Kannada (100 Mks)",
+        "General Knowledge (100 Mks)"
+      ],
+      "summary": "Revenue, PWD and Commercial Taxes departmental assistant postings conducted via KEA single window test.",
+      "links": {
+        "applyUrl": "https://cetonline.karnataka.gov.in/kea",
+        "officialWebsiteUrl": "https://kea.kar.nic.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-ka-6-2026",
+      "slug": "ka-kea-kea-karnataka-first-division-assistant-f",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "26 Oct 2026",
+        "daysRemaining": 19,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 5020
+    },
+    {
+      "title": "TNPSC Combined Civil Services Examination-II (Group-2 & 2A) 2026",
+      "organization": {
+        "name": "Tamil Nadu Public Service Commission",
+        "shortName": "TNPSC",
+        "logoText": "TNPSC",
+        "badgeColor": "bg-emerald-900",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State PSC",
+      "state": "TN",
+      "totalVacancies": 2327,
+      "location": "Chennai & Tamil Nadu Districts",
+      "qualificationLevel": "graduate",
+      "eligibility": {
+        "education": [
+          "Any Degree from UGC recognized University + Adequate Tamil knowledge"
+        ],
+        "minAge": 18,
+        "maxAge": 32,
+        "ageRelaxation": "BC/MBC/SC/ST: No Maximum Age Limit",
+        "experience": "Freshers Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Level-9 to Level-16 (₹20,600 - ₹1,19,500/mo)",
+        "applicationFeeGeneral": 150,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Preliminary Examination (Single Paper 300 Marks)",
+        "Main Written Exam",
+        "Oral Test (for Interview Posts)"
+      ],
+      "summary": "Sub-Registrar, Municipal Commissioner, Assistant Section Officer (ASO) in Secretariat and Revenue Inspector posts.",
+      "links": {
+        "applyUrl": "https://tnpscexams.in",
+        "officialWebsiteUrl": "https://tnpsc.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-tn-5-2026",
+      "slug": "tn-tnpsc-tnpsc-combined-civil-services-examinatio",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "29 Oct 2026",
+        "daysRemaining": 22,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 4600
+    },
+    {
+      "title": "DSSSB Delhi Subordinate Services TGT & PGT Teacher Recruitment 2026",
+      "organization": {
+        "name": "Delhi Subordinate Services Selection Board",
+        "shortName": "DSSSB",
+        "logoText": "DSSSB",
+        "badgeColor": "bg-blue-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Teaching / Delhi Govt",
+      "state": "DL",
+      "totalVacancies": 5800,
+      "location": "Delhi NCR Schools",
+      "qualificationLevel": "graduate",
+      "eligibility": {
+        "education": [
+          "Graduate / Post Graduate in relevant subject + B.Ed + CTET Paper-II Qualified"
+        ],
+        "minAge": 21,
+        "maxAge": 32,
+        "ageRelaxation": "Women: 10 Years | OBC (Delhi): 3 Years | SC/ST: 5 Years",
+        "experience": "Freshers Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Matrix Level-7 (₹44,900 - ₹1,42,400/mo) + Delhi Allowances",
+        "applicationFeeGeneral": 100,
+        "applicationFeeReserved": 0,
+        "feeNote": "Women, SC, ST, PwBD candidates exempt from fee."
+      },
+      "selectionProcess": [
+        "One Tier Computer Based Examination (200 Marks)",
+        "Document Verification"
+      ],
+      "summary": "Directorate of Education, GNCT of Delhi invites applications for Trained Graduate Teachers in English, Maths, Science & Social Science.",
+      "links": {
+        "applyUrl": "https://dsssbonline.nic.in",
+        "officialWebsiteUrl": "https://dsssb.delhi.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-dl-4-2026",
+      "slug": "dl-dsssb-dsssb-delhi-subordinate-services-tgt-pgt",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "17 Oct 2026",
+        "daysRemaining": 10,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 4180
+    },
+    {
+      "title": "MPSC Maharashtra Gazetted Civil Services Combined Preliminary Exam 2026",
+      "organization": {
+        "name": "Maharashtra Public Service Commission",
+        "shortName": "MPSC",
+        "logoText": "MPSC",
+        "badgeColor": "bg-orange-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State PSC",
+      "state": "MH",
+      "totalVacancies": 524,
+      "location": "Mumbai, Pune & Maharashtra Divisions",
+      "qualificationLevel": "graduate",
+      "eligibility": {
+        "education": [
+          "Bachelor's Degree in any stream (B.E/B.Sc for specific cadres)"
+        ],
+        "minAge": 19,
+        "maxAge": 38,
+        "ageRelaxation": "Backward Classes: 5 Years",
+        "experience": "Fresher Eligible (Marathi knowledge required)"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Matrix Level S-20 (₹56,100 - ₹1,77,500/mo)",
+        "applicationFeeGeneral": 394,
+        "applicationFeeReserved": 294
+      },
+      "selectionProcess": [
+        "Combined Prelims Exam (GS + CSAT)",
+        "Main Written Exam",
+        "Interview"
+      ],
+      "summary": "Deputy Collector, Assistant Police Commissioner (ACP), and Tehsildar recruitments under General Administration Department.",
+      "links": {
+        "applyUrl": "https://mpsconline.gov.in",
+        "officialWebsiteUrl": "https://mpsc.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-mh-3-2026",
+      "slug": "mh-mpsc-mpsc-maharashtra-gazetted-civil-services",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "20 Oct 2026",
+        "daysRemaining": 13,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 3760
+    },
+    {
+      "title": "RPSC Rajasthan State & Subordinate Services (RAS / RTS) Combined Exam 2026",
+      "organization": {
+        "name": "Rajasthan Public Service Commission",
+        "shortName": "RPSC",
+        "logoText": "RPSC",
+        "badgeColor": "bg-rose-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State PSC",
+      "state": "RJ",
+      "totalVacancies": 905,
+      "location": "Jaipur & Rajasthan Divisions",
+      "qualificationLevel": "graduate",
+      "eligibility": {
+        "education": [
+          "Graduation in any discipline from a recognized University"
+        ],
+        "minAge": 21,
+        "maxAge": 40,
+        "ageRelaxation": "SC/ST/OBC/MBC/EWS: 5 Years",
+        "experience": "Freshers Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Matrix Level L-14 to L-12 (₹56,100 - ₹1,77,500/mo)",
+        "applicationFeeGeneral": 600,
+        "applicationFeeReserved": 400
+      },
+      "selectionProcess": [
+        "Preliminary Examination (Objective 200 Marks)",
+        "Mains Exam (Descriptive 4 Papers 800 Marks)",
+        "Personality Interview (100 Marks)"
+      ],
+      "summary": "Apex administrative state service examination for SDM, Deputy SP, Accounts Officers and Tehsildars in Rajasthan.",
+      "links": {
+        "applyUrl": "https://sso.rajasthan.gov.in",
+        "officialWebsiteUrl": "https://rpsc.rajasthan.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-rj-2-2026",
+      "slug": "rj-rpsc-rpsc-rajasthan-state-subordinate-service",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "23 Oct 2026",
+        "daysRemaining": 16,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 3340
+    },
+    {
+      "title": "UPSSSC Rajasva Lekhpal Direct Recruitment 2026 (Revenue Department)",
+      "organization": {
+        "name": "Uttar Pradesh Subordinate Services Selection Commission",
+        "shortName": "UPSSSC",
+        "logoText": "UPSSSC",
+        "badgeColor": "bg-blue-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Revenue / State Govt",
+      "state": "UP",
+      "totalVacancies": 4680,
+      "location": "Uttar Pradesh District Tehsils",
+      "qualificationLevel": "12th",
+      "eligibility": {
+        "education": [
+          "12th Pass (Intermediate) + UPSSSC PET 2025/2026 Valid Scorecard"
+        ],
+        "minAge": 18,
+        "maxAge": 40,
+        "ageRelaxation": "OBC/SC/ST: 5 Years",
+        "experience": "Fresher Eligible (CCC Certificate desirable)"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Band-1 (₹5,200 - ₹20,200 Grade Pay ₹2,000)",
+        "applicationFeeGeneral": 25,
+        "applicationFeeReserved": 25,
+        "feeNote": "Processing fee ₹25 for main exam shortlisting."
+      },
+      "selectionProcess": [
+        "PET Score Shortlisting",
+        "Mains Written Exam (100 Marks)",
+        "Document Verification"
+      ],
+      "summary": "Board of Revenue UP announces village revenue accounting posts across 75 districts.",
+      "links": {
+        "applyUrl": "https://upsssc.gov.in/AllNotifications.aspx",
+        "officialWebsiteUrl": "https://upsssc.gov.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-up-1-2026",
+      "slug": "up-upsssc-upsssc-rajasva-lekhpal-direct-recruitmen",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "26 Oct 2026",
+        "daysRemaining": 19,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 2920
+    },
+    {
+      "title": "BPSC Block Agriculture Officer (BAO) & Sub-Divisional Agriculture Officer 2026",
+      "organization": {
+        "name": "Bihar Public Service Commission",
+        "shortName": "BPSC",
+        "logoText": "BPSC",
+        "badgeColor": "bg-emerald-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State PSC",
+      "state": "BR",
+      "totalVacancies": 1051,
+      "location": "Patna & Bihar Sub-Divisions",
+      "qualificationLevel": "graduate",
+      "eligibility": {
+        "education": [
+          "B.Sc in Agriculture / Agriculture Engineering from recognized university"
+        ],
+        "minAge": 21,
+        "maxAge": 37,
+        "ageRelaxation": "OBC/BC: 3 Years | SC/ST: 5 Years | Female: 3 Years",
+        "experience": "Freshers Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Level-9 (₹53,100 - ₹1,67,800/mo) + DA & HRA",
+        "applicationFeeGeneral": 750,
+        "applicationFeeReserved": 200
+      },
+      "selectionProcess": [
+        "Written Examination (General Hindi, General Knowledge, Agronomy)",
+        "Viva-Voce / Interview"
+      ],
+      "summary": "Department of Agriculture, Govt. of Bihar invites applications for Block Agriculture Officers and Agriculture Directors.",
+      "links": {
+        "applyUrl": "https://onlinebpsc.bihar.gov.in",
+        "officialWebsiteUrl": "https://bpsc.bih.nic.in"
+      },
+      "status": "ACTIVE",
+      "isNewToday": true,
+      "id": "auto-state-br-0-2026",
+      "slug": "br-bpsc-bpsc-block-agriculture-officer-bao-sub-d",
+      "importantDates": {
+        "notificationDate": "Today (Official Notice)",
+        "applyStartDate": "Today",
+        "applyEndDate": "29 Oct 2026",
+        "daysRemaining": 22,
+        "examDate": "Coming Month 2026"
+      },
+      "viewsCount": 2500
+    },
+    {
+      "id": "ssc-chsl-2026",
+      "slug": "ssc-chsl-recruitment-2026-online-form",
+      "title": "SSC Combined Higher Secondary (10+2) Level Examination (CHSL) 2026",
+      "organization": {
+        "name": "Staff Selection Commission",
+        "shortName": "SSC",
+        "logoText": "SSC",
+        "badgeColor": "bg-blue-600",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "SSC / Central Govt",
+      "state": "All India",
+      "qualificationLevel": "12TH",
+      "totalVacancies": 2536,
+      "location": "All India (Central Ministries, Departments & Constitutional Offices)",
+      "importantDates": {
+        "notificationDate": "01 Oct 2026",
+        "applyStartDate": "01 Oct 2026",
+        "applyEndDate": "24 Oct 2026",
+        "daysRemaining": 1,
+        "examDate": "December 2026 (Tier-I CBT)",
+        "admitCardDate": "Nov 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Must have passed 12th Standard (10+2) or equivalent from a recognized Board or University"
+        ],
+        "minAge": 18,
+        "maxAge": 27,
+        "ageCutoffDate": "01 Aug 2026",
+        "ageRelaxation": "OBC: 3 Years | SC/ST: 5 Years | PwD: 10 Years",
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Level 2 & 4 (₹19,900 - ₹81,100/mo + HRA, DA)",
+        "applicationFeeGeneral": 100,
+        "applicationFeeReserved": 0,
+        "feeNote": "Women, SC, ST, PwD, and ESM candidates are exempted from payment of fee."
+      },
+      "selectionProcess": [
+        "Tier-I Computer Based Examination (Objective Type - 100 Questions / 200 Marks)",
+        "Tier-II Objective & Skill Test / Typing Test",
+        "Document Verification & Medical Fitness"
+      ],
+      "summary": "SSC CHSL 2026 recruitment notification for Lower Divisional Clerk (LDC), Junior Secretariat Assistant (JSA), and Data Entry Operator (DEO) in Central Govt ministries.",
+      "responsibilitiesOrSyllabus": [
+        "Tier-I: English Language (25 Qs), General Intelligence (25 Qs), Quantitative Aptitude (25 Qs), General Awareness (25 Qs)",
+        "Tier-II: Mathematical Abilities, Reasoning, English Language, General Awareness & Computer Knowledge Module"
+      ],
+      "links": {
+        "applyUrl": "https://ssc.gov.in",
+        "officialPdfUrl": "https://ssc.gov.in/notice/CHSL-2026-Notification.pdf",
+        "officialWebsiteUrl": "https://ssc.gov.in",
+        "syllabusUrl": "https://ssc.gov.in/notice/CHSL-Syllabus.pdf"
+      },
+      "status": "CLOSING_SOON",
+      "isTrending": true,
+      "isNewToday": true,
+      "viewsCount": 48920
+    },
+    {
+      "id": "rrb-ntpc-graduate-2026",
+      "slug": "rrb-ntpc-graduate-recruitment-062026-online-form",
+      "title": "RRB NTPC (Graduate) Centralized Employment Notice (CEN 06/2026)",
+      "organization": {
+        "name": "Railway Recruitment Boards",
+        "shortName": "RRB",
+        "logoText": "RRB",
+        "badgeColor": "bg-red-600",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Railways",
+      "state": "All India",
+      "qualificationLevel": "GRADUATE",
+      "totalVacancies": 3477,
+      "location": "All Railway Zones across India",
+      "importantDates": {
+        "notificationDate": "14 Sep 2026",
+        "applyStartDate": "14 Sep 2026",
+        "applyEndDate": "20 Nov 2026",
+        "daysRemaining": 14,
+        "examDate": "Jan/Feb 2027 (CBT-1)",
+        "admitCardDate": "4 Days prior to CBT Date"
+      },
+      "eligibility": {
+        "education": [
+          "University Degree / Bachelor’s Degree in any discipline from a recognized University"
+        ],
+        "minAge": 18,
+        "maxAge": 36,
+        "ageCutoffDate": "01 Jan 2026",
+        "ageRelaxation": "OBC (NCL): 3 Years | SC/ST: 5 Years | PwD: 10 Years",
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Level 5 & 6 (₹29,200 - ₹1,12,400 + Allowances)",
+        "applicationFeeGeneral": 500,
+        "applicationFeeReserved": 250,
+        "feeNote": "₹400 / ₹250 refunded on attending 1st Stage CBT examination."
+      },
+      "selectionProcess": [
+        "1st Stage Computer Based Test (CBT-1 common for all posts)",
+        "2nd Stage Computer Based Test (CBT-2 post-level wise)",
+        "Computer Based Aptitude Test (CBAT) for Station Master / Typing Skill Test for Clerks",
+        "Document Verification and Medical Examination"
+      ],
+      "summary": "Indian Railways invites applications for Chief Commercial cum Ticket Supervisor, Station Master, Goods Train Manager, and Senior Clerk cum Typist across 21 RRB divisions.",
+      "responsibilitiesOrSyllabus": [
+        "CBT-1: General Awareness (40 Qs), Mathematics (30 Qs), General Intelligence & Reasoning (30 Qs). Total 100 Marks (90 Minutes). Negative marking: 1/3rd.",
+        "CBT-2: General Awareness (50 Qs), Mathematics (35 Qs), Reasoning (35 Qs). Total 120 Marks."
+      ],
+      "links": {
+        "applyUrl": "https://rrbapply.gov.in",
+        "officialPdfUrl": "https://rrbapply.gov.in/notices/CEN-06-2026-NTPC.pdf",
+        "officialWebsiteUrl": "https://indianrailways.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": false,
+      "viewsCount": 62450
+    },
+    {
+      "id": "canara-bank-apprentice-2026",
+      "slug": "canara-bank-apprentice-recruitment-2026",
+      "title": "Canara Bank 3,500 Graduate Apprentice Recruitment 2026",
+      "organization": {
+        "name": "Canara Bank",
+        "shortName": "Canara",
+        "logoText": "CNB",
+        "badgeColor": "bg-amber-600",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Banking",
+      "state": "All India",
+      "qualificationLevel": "GRADUATE",
+      "totalVacancies": 3500,
+      "location": "Pan India Branches (State-wise allotment)",
+      "importantDates": {
+        "notificationDate": "21 Sep 2026",
+        "applyStartDate": "21 Sep 2026",
+        "applyEndDate": "07 Nov 2026",
+        "daysRemaining": 6,
+        "examDate": "November 2026",
+        "admitCardDate": "1st Week Nov 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Graduate in any discipline from a University recognized by the Govt. of India"
+        ],
+        "minAge": 20,
+        "maxAge": 28,
+        "ageCutoffDate": "01 Sep 2026",
+        "ageRelaxation": "As per Apprenticeship Act 1961 guidelines",
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Monthly Stipend: ₹15,000/- per month for 1 Year Training",
+        "applicationFeeGeneral": 500,
+        "applicationFeeReserved": 0,
+        "feeNote": "SC/ST/PwBD candidates: Exempted. Payment via Net Banking/UPI."
+      },
+      "selectionProcess": [
+        "Merit-based Shortlisting on 10th/12th/Graduation Aggregate Marks",
+        "Local Language Proficiency Test",
+        "Document Verification & Medical Fitness"
+      ],
+      "summary": "Engagement of 3,500 Apprentices under Apprentices Act, 1961 across Canara Bank branches in all states with certificate upon completion.",
+      "links": {
+        "applyUrl": "https://canarabank.com/pages/careers",
+        "officialPdfUrl": "https://canarabank.com/media/apprentice-notification-2026.pdf",
+        "officialWebsiteUrl": "https://canarabank.com"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": true,
+      "viewsCount": 31200
+    },
+    {
+      "id": "bank-of-baroda-so-2026",
+      "slug": "bank-of-baroda-specialist-officer-recruitment-2026",
+      "title": "Bank of Baroda 1,100 Specialist Officer (SO) Online Form 2026",
+      "organization": {
+        "name": "Bank of Baroda",
+        "shortName": "BOB",
+        "logoText": "BOB",
+        "badgeColor": "bg-orange-600",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Banking",
+      "state": "All India",
+      "qualificationLevel": "GRADUATE",
+      "totalVacancies": 1100,
+      "location": "All India Offices",
+      "importantDates": {
+        "notificationDate": "26 Sep 2026",
+        "applyStartDate": "26 Sep 2026",
+        "applyEndDate": "12 Nov 2026",
+        "daysRemaining": 11,
+        "examDate": "December 2026",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Graduation / Post Graduation / MBA / CA / CFA / B.Tech from a recognized University"
+        ],
+        "minAge": 22,
+        "maxAge": 35,
+        "experience": "0 to 3 Years depending on specific Grade & Scale"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Scale-I & Scale-II: ₹48,170 - ₹89,890 + DA, HRA, Perks",
+        "applicationFeeGeneral": 600,
+        "applicationFeeReserved": 100,
+        "feeNote": "Pay online via Debit Card or Net Banking."
+      },
+      "selectionProcess": [
+        "Online Written Test (Professional Knowledge & Aptitude)",
+        "Psychometric Assessment",
+        "Group Discussion & Personal Interview"
+      ],
+      "summary": "Bank of Baroda invites online applications for regular & contractual appointment of 1,100 Specialist Officers in Wealth Management, Credit, Risk, and IT domains.",
+      "links": {
+        "applyUrl": "https://bankofbaroda.in/careers",
+        "officialPdfUrl": "https://bankofbaroda.in/careers/so-notification-2026.pdf",
+        "officialWebsiteUrl": "https://bankofbaroda.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": false,
+      "isNewToday": false,
+      "viewsCount": 19800
+    },
+    {
+      "id": "supreme-court-jca-2026",
+      "slug": "supreme-court-junior-court-assistant-2026",
+      "title": "Supreme Court 250 Junior Court Assistant (JCA) Online Form 2026",
+      "organization": {
+        "name": "Supreme Court of India",
+        "shortName": "SCI",
+        "logoText": "SCI",
+        "badgeColor": "bg-slate-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Judiciary / Central Govt",
+      "state": "All India",
+      "qualificationLevel": "GRADUATE",
+      "totalVacancies": 250,
+      "location": "New Delhi (Supreme Court of India)",
+      "importantDates": {
+        "notificationDate": "28 Sep 2026",
+        "applyStartDate": "28 Sep 2026",
+        "applyEndDate": "10 Nov 2026",
+        "daysRemaining": 9,
+        "examDate": "December 2026",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Bachelor’s Degree of a recognized University + Minimum speed of 35 w.p.m. in English typing on Computer"
+        ],
+        "minAge": 18,
+        "maxAge": 30,
+        "ageCutoffDate": "01 July 2026",
+        "experience": "Fresher Eligible with knowledge of computer operation"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Level 6 of Pay Matrix (Basic Pay ₹35,400, Gross Salary ~₹63,058/mo)",
+        "applicationFeeGeneral": 500,
+        "applicationFeeReserved": 250
+      },
+      "selectionProcess": [
+        "Objective Written Test (100 Questions) + Computer Knowledge (25 Questions)",
+        "Typing Speed Test on Computer (35 w.p.m. with 3% mistake limit)",
+        "Descriptive Test in English Language (Comprehension & Essay)",
+        "Interview before Board of Registrars"
+      ],
+      "summary": "Supreme Court of India invites online applications from Indian citizens for filling up 250 vacancies of Junior Court Assistant (Group B Non-Gazetted).",
+      "links": {
+        "applyUrl": "https://main.sci.gov.in/recruitment",
+        "officialPdfUrl": "https://main.sci.gov.in/pdf/JCA-Notification-2026.pdf",
+        "officialWebsiteUrl": "https://main.sci.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": true,
+      "viewsCount": 27400
+    },
+    {
+      "id": "army-tes-57-2026",
+      "slug": "indian-army-10-plus-2-tes-57-course-2026",
+      "title": "Indian Army Commissioned Officer (10+2 TES-57 Course) Online Form 2026",
+      "organization": {
+        "name": "Indian Army",
+        "shortName": "Army",
+        "logoText": "IA",
+        "badgeColor": "bg-emerald-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Defence",
+      "state": "All India",
+      "qualificationLevel": "12TH",
+      "totalVacancies": 90,
+      "location": "Indian Army Training Academies across India",
+      "importantDates": {
+        "notificationDate": "01 Oct 2026",
+        "applyStartDate": "01 Oct 2026",
+        "applyEndDate": "18 Nov 2026",
+        "daysRemaining": 15,
+        "examDate": "SSB Interview: Jan/Feb 2027",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Passed 10+2 Examination with minimum 60% marks in Physics, Chemistry & Mathematics + Appeared in JEE (Mains) 2026"
+        ],
+        "minAge": 16.5,
+        "maxAge": 19.5,
+        "experience": "Unmarried Male Candidates"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Lieutenant Rank (Level 10: ₹56,100 - ₹1,77,500 + MSP ₹15,500/mo)",
+        "applicationFeeGeneral": 0,
+        "applicationFeeReserved": 0,
+        "feeNote": "Zero Application Fee for all candidates."
+      },
+      "selectionProcess": [
+        "Shortlisting of Applications based on JEE (Mains) NTA Rank",
+        "Services Selection Board (SSB) 5-Day Interview at Centre",
+        "Medical Examination at Military Hospital"
+      ],
+      "summary": "Grant of Permanent Commission in the Army for candidates who have passed 10+2 with PCM and appeared in JEE Mains.",
+      "links": {
+        "applyUrl": "https://joinindianarmy.nic.in",
+        "officialPdfUrl": "https://joinindianarmy.nic.in/writereaddata/Portal/Notification/TES-57.pdf",
+        "officialWebsiteUrl": "https://joinindianarmy.nic.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": false,
+      "viewsCount": 22900
+    },
+    {
+      "id": "icg-cgept-2026",
+      "slug": "icg-cgept-recruitment-2026-navik-yantrik",
+      "title": "Indian Coast Guard (ICG) CGEPT 365 Navik (GD, DB) & Yantrik Online Form 2026",
+      "organization": {
+        "name": "Indian Coast Guard",
+        "shortName": "ICG",
+        "logoText": "ICG",
+        "badgeColor": "bg-blue-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Defence",
+      "state": "All India",
+      "qualificationLevel": "12TH",
+      "totalVacancies": 365,
+      "location": "Coast Guard Stations across coastal India",
+      "importantDates": {
+        "notificationDate": "25 Sep 2026",
+        "applyStartDate": "25 Sep 2026",
+        "applyEndDate": "05 Nov 2026",
+        "daysRemaining": 4,
+        "examDate": "Late November 2026 (Stage-I CBT)",
+        "admitCardDate": "Nov 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Navik (DB): 10th Pass | Navik (GD): 12th with Maths & Physics | Yantrik: 10th + 3/4 Yr Diploma in Engg"
+        ],
+        "minAge": 18,
+        "maxAge": 22,
+        "ageCutoffDate": "01 Mar 2026",
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Level 3 & Level 5 (₹21,700 - ₹69,100 + DA + Free Rations)",
+        "applicationFeeGeneral": 300,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Stage-I: Computer Based Written Examination (CBE)",
+        "Stage-II: Physical Fitness Test (PFT), Document Verification & Initial Medical",
+        "Stage-III & IV: Final Medical Examination at INS Chilka & Induction"
+      ],
+      "summary": "Join Indian Coast Guard as Navik (General Duty), Navik (Domestic Branch), and Yantrik (Mechanical, Electrical, Electronics).",
+      "links": {
+        "applyUrl": "https://joinindiancoastguard.cdac.in",
+        "officialPdfUrl": "https://joinindiancoastguard.cdac.in/cgept-01-2026.pdf",
+        "officialWebsiteUrl": "https://indiancoastguard.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": false,
+      "isNewToday": true,
+      "viewsCount": 18450
+    },
+    {
+      "id": "cdac-844-posts-2026",
+      "slug": "c-dac-recruitment-2026-project-engineer",
+      "title": "CDAC 844 Project Engineer & Manager Online Form 2026",
+      "organization": {
+        "name": "Centre for Development of Advanced Computing",
+        "shortName": "CDAC",
+        "logoText": "CDAC",
+        "badgeColor": "bg-indigo-600",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Engineering & IT",
+      "state": "All India",
+      "qualificationLevel": "BTECH",
+      "totalVacancies": 844,
+      "location": "Pune, Bengaluru, Noida, Hyderabad, Thiruvananthapuram, Kolkata",
+      "importantDates": {
+        "notificationDate": "29 Sep 2026",
+        "applyStartDate": "29 Sep 2026",
+        "applyEndDate": "15 Nov 2026",
+        "daysRemaining": 13,
+        "examDate": "Interview: Dec 2026",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "B.E/B.Tech in Computer Science/IT/ECE/EEE or MCA or M.Sc in CS/IT with minimum 60% marks"
+        ],
+        "minAge": 21,
+        "maxAge": 35,
+        "experience": "0 to 4 Years relevant technical experience"
+      },
+      "compensation": {
+        "salaryOrPayScale": "CTC ₹4.49 Lakhs - ₹14.0 Lakhs per annum (Grade dependent)",
+        "applicationFeeGeneral": 200,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Screening of online applications on Academic Performance",
+        "Technical Screening Assessment / Coding Round",
+        "Personal Technical Interview (Online/In-person)"
+      ],
+      "summary": "C-DAC premier R&D organization of Ministry of Electronics & IT invites applications for HPC, Quantum Computing, AI/ML, and Cyber Security projects.",
+      "links": {
+        "applyUrl": "https://www.cdac.in/index.aspx?id=job_portal",
+        "officialPdfUrl": "https://www.cdac.in/careers/advt-844-posts.pdf",
+        "officialWebsiteUrl": "https://www.cdac.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": false,
+      "viewsCount": 25100
+    },
+    {
+      "id": "isro-iprc-2026",
+      "slug": "isro-iprc-recruitment-2026-technician-fireman",
+      "title": "ISRO IPRC Fireman, Technician & Technical Assistant Online Form 2026",
+      "organization": {
+        "name": "ISRO Propulsion Complex",
+        "shortName": "ISRO",
+        "logoText": "ISRO",
+        "badgeColor": "bg-cyan-600",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Engineering & PSU",
+      "state": "All India",
+      "qualificationLevel": "ITI",
+      "totalVacancies": 22,
+      "location": "Mahendragiri, Tirunelveli District, Tamil Nadu",
+      "importantDates": {
+        "notificationDate": "30 Sep 2026",
+        "applyStartDate": "30 Sep 2026",
+        "applyEndDate": "14 Nov 2026",
+        "daysRemaining": 12,
+        "examDate": "Jan 2027",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "SSLC/10th Pass + ITI/NTC/NAC in Fitter/Welder/Electronic OR First Class Diploma in Mechanical/Electronics OR 10th with Fire Training"
+        ],
+        "minAge": 18,
+        "maxAge": 35,
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Level 2 to Level 7 (₹21,700 - ₹44,900 Basic Pay)",
+        "applicationFeeGeneral": 500,
+        "applicationFeeReserved": 100,
+        "feeNote": "Refundable on attending written test."
+      },
+      "selectionProcess": [
+        "Written Test (Curriculum based objective test)",
+        "Skill Test / Physical Endurance Test (Qualifying Nature)",
+        "Document Verification"
+      ],
+      "summary": "Work at ISRO Propulsion Complex (IPRC) testing liquid propulsion rocket engines and cryogenic upper stages for PSLV and LVM3.",
+      "links": {
+        "applyUrl": "https://www.iprc.gov.in",
+        "officialPdfUrl": "https://www.iprc.gov.in/iprc_recruitment_2026.pdf",
+        "officialWebsiteUrl": "https://www.isro.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": false,
+      "isNewToday": true,
+      "viewsCount": 16900
+    },
+    {
+      "id": "rrc-nwr-apprentice-2026",
+      "slug": "rrc-north-western-railway-apprentice-2026",
+      "title": "RRC NWR 2,008 Act Apprentice Recruitment Online Form 2026",
+      "organization": {
+        "name": "Railway Recruitment Cell (NWR)",
+        "shortName": "RRC NWR",
+        "logoText": "NWR",
+        "badgeColor": "bg-emerald-600",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Railways",
+      "state": "Rajasthan",
+      "qualificationLevel": "ITI",
+      "totalVacancies": 2008,
+      "location": "Jaipur, Ajmer, Bikaner, Jodhpur Workshops",
+      "importantDates": {
+        "notificationDate": "27 Sep 2026",
+        "applyStartDate": "27 Sep 2026",
+        "applyEndDate": "10 Nov 2026",
+        "daysRemaining": 8,
+        "examDate": "No Exam (Merit List in Dec 2026)",
+        "admitCardDate": "N/A"
+      },
+      "eligibility": {
+        "education": [
+          "10th Class passed with minimum 50% marks in aggregate + ITI Certificate in affiliated NCVT/SCVT Trade"
+        ],
+        "minAge": 15,
+        "maxAge": 24,
+        "ageCutoffDate": "10 Nov 2026",
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Monthly Stipend: ₹8,050/- as per Apprenticeship rules",
+        "applicationFeeGeneral": 100,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Direct Merit Calculation (50% weightage 10th marks + 50% weightage ITI marks)",
+        "No Written Exam or Viva Voce",
+        "Medical Verification"
+      ],
+      "summary": "North Western Railway Apprentice training in Fitter, Welder, Electrician, Machinist, Painter, Carpenter, and Diesel Mechanic trades.",
+      "links": {
+        "applyUrl": "https://www.rrcjaipur.in",
+        "officialPdfUrl": "https://www.rrcjaipur.in/Act_Apprentice_Notification_2026.pdf",
+        "officialWebsiteUrl": "https://nwr.indianrailways.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": false,
+      "isNewToday": false,
+      "viewsCount": 21300
+    },
+    {
+      "id": "sbi-po-2026",
+      "slug": "sbi-po-recruitment-2026",
+      "title": "SBI Probationary Officer (PO) Recruitment 2026 (2,000 Posts)",
+      "organization": {
+        "name": "State Bank of India",
+        "shortName": "SBI",
+        "logoText": "SBI",
+        "badgeColor": "bg-blue-600",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Banking",
+      "state": "All India",
+      "qualificationLevel": "GRADUATE",
+      "totalVacancies": 2000,
+      "location": "All India",
+      "importantDates": {
+        "notificationDate": "01 Oct 2026",
+        "applyStartDate": "05 Oct 2026",
+        "applyEndDate": "26 Oct 2026",
+        "daysRemaining": 2,
+        "examDate": "Nov/Dec 2026 (Prelims)",
+        "admitCardDate": "Nov 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Graduation in any discipline from a recognized University or equivalent qualification"
+        ],
+        "minAge": 21,
+        "maxAge": 30,
+        "ageCutoffDate": "01 April 2026",
+        "ageRelaxation": "OBC: 3 Years | SC/ST: 5 Years | PwD: 10-15 Years",
+        "experience": "Fresher Eligible (Final year students eligible)"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Basic Pay ₹41,960/- with 4 advance increments (Gross ~₹82,000/mo)",
+        "applicationFeeGeneral": 750,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Phase-I: Preliminary Examination (100 Marks)",
+        "Phase-II: Main Examination (Objective + Descriptive Test)",
+        "Phase-III: Psychometric Test, Group Discussion & Personal Interview"
+      ],
+      "summary": "Prestigious banking career with fast promotion tracks, allowances, and nationwide career exposure at India largest commercial lender.",
+      "links": {
+        "applyUrl": "https://sbi.co.in/web/careers/current-openings",
+        "officialPdfUrl": "https://bank.sbi/careers/advertisement-crpd-po-2026.pdf",
+        "officialWebsiteUrl": "https://sbi.co.in"
+      },
+      "status": "CLOSING_SOON",
+      "isTrending": true,
+      "isNewToday": false,
+      "viewsCount": 54100
+    },
+    {
+      "id": "bpsc-tre-4-2026",
+      "slug": "bpsc-tre-4-school-teacher-recruitment-2026",
+      "title": "BPSC TRE-4.0 32,388 School Teacher Recruitment Online Form 2026",
+      "organization": {
+        "name": "Bihar Public Service Commission",
+        "shortName": "BPSC",
+        "logoText": "BPSC",
+        "badgeColor": "bg-emerald-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Teaching / State Govt",
+      "state": "Bihar",
+      "qualificationLevel": "GRADUATE",
+      "totalVacancies": 32388,
+      "location": "All 38 Districts of Bihar",
+      "importantDates": {
+        "notificationDate": "18 Sep 2026",
+        "applyStartDate": "18 Sep 2026",
+        "applyEndDate": "08 Nov 2026",
+        "daysRemaining": 7,
+        "examDate": "December 2026",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "12th/Graduation + D.El.Ed / B.Ed + CTET Paper 1/2 or Bihar STET Paper 1/2 Qualified"
+        ],
+        "minAge": 18,
+        "maxAge": 40,
+        "ageRelaxation": "Female/BC/EBC: 3 Years | SC/ST: 5 Years"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Primary: ₹25,000 | Middle: ₹28,000 | Secondary: ₹31,000 + DA, HRA (~₹45,000/mo)",
+        "applicationFeeGeneral": 750,
+        "applicationFeeReserved": 200
+      },
+      "selectionProcess": [
+        "Written Examination (Objective MCQs - Language Qualifying + General Studies + Subject)",
+        "Document Verification & Merit Ranking",
+        "School Allotment Counseling"
+      ],
+      "summary": "Massive recruitment for Primary (Class 1-5), Middle (Class 6-8), Secondary (Class 9-10), and Higher Secondary (Class 11-12) teachers in Bihar Govt schools.",
+      "links": {
+        "applyUrl": "https://onlinebpsc.bihar.gov.in",
+        "officialPdfUrl": "https://bpsc.bih.nic.in/Advt/TRE-4.0-Notification.pdf",
+        "officialWebsiteUrl": "https://bpsc.bih.nic.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": false,
+      "viewsCount": 88400
+    },
+    {
+      "id": "rajasthan-safai-2026",
+      "slug": "rajasthan-safai-karmachari-recruitment-2026",
+      "title": "Rajasthan 24,752 Safai Karmachari Recruitment Online Form 2026",
+      "organization": {
+        "name": "Rajasthan Local Self Government",
+        "shortName": "DLB RJ",
+        "logoText": "DLB",
+        "badgeColor": "bg-rose-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State Govt",
+      "state": "Rajasthan",
+      "qualificationLevel": "8TH",
+      "totalVacancies": 24752,
+      "location": "184 Municipal Bodies across Rajasthan",
+      "importantDates": {
+        "notificationDate": "22 Sep 2026",
+        "applyStartDate": "22 Sep 2026",
+        "applyEndDate": "15 Nov 2026",
+        "daysRemaining": 13,
+        "examDate": "Lottery / Practical Assessment: Nov/Dec 2026",
+        "admitCardDate": "Nov 2026"
+      },
+      "eligibility": {
+        "education": [
+          "8th Pass or Literate + Minimum 1 Year Sanitation / Safai Experience in Govt or Registered Contractor"
+        ],
+        "minAge": 18,
+        "maxAge": 40,
+        "ageCutoffDate": "01 Jan 2026",
+        "ageRelaxation": "Male SC/ST/OBC: 5 Yrs | Female SC/ST/OBC: 10 Yrs"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Level 1 (Probation Trainee ₹12,400, Post-probation ₹17,700 - ₹56,200)",
+        "applicationFeeGeneral": 600,
+        "applicationFeeReserved": 400
+      },
+      "selectionProcess": [
+        "Scrutiny of Online Applications & Experience Verification",
+        "Lottery System / Practical Sanitation Demonstration",
+        "Final Allotment by Municipal Corporation"
+      ],
+      "summary": "Direct recruitment of 24,752 sanitation personnel in Nagar Nigams, Nagar Parishads, and Nagar Palikas across Rajasthan.",
+      "links": {
+        "applyUrl": "https://sso.rajasthan.gov.in",
+        "officialPdfUrl": "https://urban.rajasthan.gov.in/safai-karmachari-advt-2026.pdf",
+        "officialWebsiteUrl": "https://urban.rajasthan.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": false,
+      "viewsCount": 45600
+    },
+    {
+      "id": "jkssb-class-iv-2026",
+      "slug": "jkssb-class-iv-mts-recruitment-2026",
+      "title": "JKSSB 2,863 Class IV MTS & Sanitation Worker Online Form 2026",
+      "organization": {
+        "name": "J&K Services Selection Board",
+        "shortName": "JKSSB",
+        "logoText": "JK",
+        "badgeColor": "bg-teal-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State Govt",
+      "state": "Jammu & Kashmir",
+      "qualificationLevel": "10TH",
+      "totalVacancies": 2863,
+      "location": "District, Divisional & UT Cadre in Jammu & Kashmir",
+      "importantDates": {
+        "notificationDate": "24 Sep 2026",
+        "applyStartDate": "24 Sep 2026",
+        "applyEndDate": "14 Nov 2026",
+        "daysRemaining": 12,
+        "examDate": "Dec 2026 (Written OMR)",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Minimum Matriculation (10th Pass) and Maximum 10+2 (12th Pass) from recognized Board"
+        ],
+        "minAge": 18,
+        "maxAge": 40,
+        "ageRelaxation": "RBA/SC/ST: 43 Yrs | PwD: 42 Yrs | ESM: 48 Yrs"
+      },
+      "compensation": {
+        "salaryOrPayScale": "SL1 (₹14,800 - ₹47,100/mo + Dearness Allowance)",
+        "applicationFeeGeneral": 350,
+        "applicationFeeReserved": 250
+      },
+      "selectionProcess": [
+        "Written Objective Test (85 Marks - Basic Reasoning, English, Maths, General Knowledge)",
+        "Weightage for Domicile / Family Without Govt Employee (15 Marks)",
+        "Document Verification"
+      ],
+      "summary": "Recruitment for Multi Tasking Staff (MTS), Attendant, Peon, and Chowkidar in UT Departments of Jammu and Kashmir.",
+      "links": {
+        "applyUrl": "https://jkssb.nic.in",
+        "officialPdfUrl": "https://jkssb.nic.in/pdf/Class-IV-Advt-2026.pdf",
+        "officialWebsiteUrl": "https://jkssb.nic.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": false,
+      "isNewToday": false,
+      "viewsCount": 33400
+    },
+    {
+      "id": "mpesb-sub-engineer-2026",
+      "slug": "mpesb-group-3-sub-engineer-recruitment-2026",
+      "title": "MPESB Group-3 1,700 Sub Engineer Online Form 2026",
+      "organization": {
+        "name": "Madhya Pradesh Employees Selection Board",
+        "shortName": "MPESB",
+        "logoText": "MP",
+        "badgeColor": "bg-amber-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Engineering / State Govt",
+      "state": "Madhya Pradesh",
+      "qualificationLevel": "DIPLOMA",
+      "totalVacancies": 1700,
+      "location": "Madhya Pradesh (PWD, WRD, PHE, Urban Dev)",
+      "importantDates": {
+        "notificationDate": "26 Sep 2026",
+        "applyStartDate": "26 Sep 2026",
+        "applyEndDate": "16 Nov 2026",
+        "daysRemaining": 14,
+        "examDate": "Jan 2027",
+        "admitCardDate": "Jan 2027"
+      },
+      "eligibility": {
+        "education": [
+          "3-Year Diploma or B.E/B.Tech in Civil, Electrical or Mechanical Engineering from a recognized University"
+        ],
+        "minAge": 18,
+        "maxAge": 40,
+        "ageRelaxation": "MP Domicile SC/ST/OBC/Women: 5 Years"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Level 8 (₹32,800 - ₹1,03,600 + DA & Allowances)",
+        "applicationFeeGeneral": 500,
+        "applicationFeeReserved": 250
+      },
+      "selectionProcess": [
+        "Combined Online Recruitment Examination (200 Marks - General Subjects 100 Marks + Technical Domain 100 Marks)",
+        "Document Scrutiny and Department Allotment"
+      ],
+      "summary": "Recruitment of Sub Engineer (Civil/Electrical/Mechanical) and Draftsman across Water Resources, PWD, and PHED departments.",
+      "links": {
+        "applyUrl": "https://esb.mp.gov.in",
+        "officialPdfUrl": "https://esb.mp.gov.in/Rulebooks/RB_2026/SubEngg_2026_Rulebook.pdf",
+        "officialWebsiteUrl": "https://esb.mp.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": false,
+      "isNewToday": false,
+      "viewsCount": 28900
+    },
+    {
+      "id": "phhc-clerk-2026",
+      "slug": "punjab-and-haryana-high-court-clerk-2026",
+      "title": "Punjab and Haryana High Court 1,270 Clerk Online Form 2026",
+      "organization": {
+        "name": "High Court of Punjab and Haryana",
+        "shortName": "PHHC",
+        "logoText": "HC",
+        "badgeColor": "bg-indigo-900",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Judiciary / State Govt",
+      "state": "Punjab",
+      "qualificationLevel": "GRADUATE",
+      "totalVacancies": 1270,
+      "location": "Subordinate Courts of Punjab and Haryana",
+      "importantDates": {
+        "notificationDate": "28 Sep 2026",
+        "applyStartDate": "28 Sep 2026",
+        "applyEndDate": "11 Nov 2026",
+        "daysRemaining": 10,
+        "examDate": "December 2026 (CBT)",
+        "admitCardDate": "Nov 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Bachelor of Arts or Bachelor of Science or equivalent + Matriculation with Hindi/Punjabi as one of the subjects + Computer Proficiency"
+        ],
+        "minAge": 18,
+        "maxAge": 37,
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Level 3 (Basic Pay ₹21,700/mo + Allowances as per Punjab Govt rules)",
+        "applicationFeeGeneral": 825,
+        "applicationFeeReserved": 525
+      },
+      "selectionProcess": [
+        "Computer Based Test (CBT - General Knowledge 50 Qs + English Comp 50 Qs)",
+        "Computer Proficiency Test (CPT - Word Processing & Spreadsheet)",
+        "Checking of Original Testimonials"
+      ],
+      "summary": "Recruitment of 1,270 Clerks in the Subordinate Courts of Punjab & Haryana under the Centralized Recruitment Committee (SSSC).",
+      "links": {
+        "applyUrl": "https://sssc.gov.in",
+        "officialPdfUrl": "https://sssc.gov.in/Advt_Clerk_2026.pdf",
+        "officialWebsiteUrl": "https://highcourtchd.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": false,
+      "viewsCount": 35100
+    },
+    {
+      "id": "dsssb-delhi-courts-2026",
+      "slug": "dsssb-delhi-district-courts-recruitment-2026",
+      "title": "DSSSB Delhi District Courts 641 Peon, Process Server & PA Online Form 2026",
+      "organization": {
+        "name": "Delhi Subordinate Services Selection Board",
+        "shortName": "DSSSB",
+        "logoText": "DSSSB",
+        "badgeColor": "bg-blue-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Judiciary / State Govt",
+      "state": "Delhi",
+      "qualificationLevel": "10TH",
+      "totalVacancies": 641,
+      "location": "Delhi District Courts (Tis Hazari, Saket, Dwarka, Karkardooma, Rohini)",
+      "importantDates": {
+        "notificationDate": "27 Sep 2026",
+        "applyStartDate": "27 Sep 2026",
+        "applyEndDate": "12 Nov 2026",
+        "daysRemaining": 11,
+        "examDate": "December 2026",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Peon/Orderly: 10th Pass | Process Server: 10th with Driving License | Personal Assistant: Graduate with 100 wpm shorthand"
+        ],
+        "minAge": 18,
+        "maxAge": 27,
+        "ageRelaxation": "Delhi OBC: 3 Yrs | SC/ST: 5 Yrs"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Level 2 & 4 & 7 (₹19,900 - ₹1,42,400 + DA & HRA)",
+        "applicationFeeGeneral": 100,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Tier-I Objective MCQ Exam (General English, Hindi, GK & Arithmetic)",
+        "Skill Test (Driving Test for Process Server / Shorthand for PA)",
+        "Interview (For specific court posts)"
+      ],
+      "summary": "Recruitment for non-ministerial and ministerial court posts across Delhi District Courts & Family Courts under advertisement 08/2026.",
+      "links": {
+        "applyUrl": "https://dsssbonline.nic.in",
+        "officialPdfUrl": "https://dsssb.delhi.gov.in/notice_08_2026.pdf",
+        "officialWebsiteUrl": "https://dsssb.delhi.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": false,
+      "isNewToday": false,
+      "viewsCount": 26800
+    },
+    {
+      "id": "cg-sages-2026",
+      "slug": "chhattisgarh-sages-recruitment-2026",
+      "title": "Chhattisgarh SAGES 1,812 Lecturer & Assistant Teacher Online Form 2026",
+      "organization": {
+        "name": "Swami Atmanand English Medium Schools",
+        "shortName": "CG SAGES",
+        "logoText": "SAGES",
+        "badgeColor": "bg-emerald-700",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Teaching / State Govt",
+      "state": "Chhattisgarh",
+      "qualificationLevel": "GRADUATE",
+      "totalVacancies": 1812,
+      "location": "Across all 33 Districts of Chhattisgarh",
+      "importantDates": {
+        "notificationDate": "29 Sep 2026",
+        "applyStartDate": "29 Sep 2026",
+        "applyEndDate": "18 Nov 2026",
+        "daysRemaining": 15,
+        "examDate": "Dec 2026 / Direct Interview",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Post Graduation (for Lecturer) / Graduation (for Teacher) in English Medium with B.Ed & TET Qualified"
+        ],
+        "minAge": 21,
+        "maxAge": 35,
+        "experience": "Fresher Eligible"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Lecturer: ₹38,100 | Teacher: ₹35,400 | Assistant Teacher: ₹25,300/mo",
+        "applicationFeeGeneral": 350,
+        "applicationFeeReserved": 200
+      },
+      "selectionProcess": [
+        "Academic Merit Weightage (10th, 12th, Degree, PG, B.Ed)",
+        "Demonstration Class / Interview in English Medium",
+        "Document Verification"
+      ],
+      "summary": "Recruitment of English medium school teachers in flagship Swami Atmanand Govt Excellent English Medium Schools (SAGES) in CG.",
+      "links": {
+        "applyUrl": "https://cgschool.in",
+        "officialPdfUrl": "https://cgschool.in/SAGES_Recruitment_2026.pdf",
+        "officialWebsiteUrl": "https://eduportal.cg.nic.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": false,
+      "isNewToday": true,
+      "viewsCount": 19400
+    },
+    {
+      "id": "appsc-group-1-2026",
+      "slug": "appsc-group-1-recruitment-2026",
+      "title": "APPSC 166 Group-I Services (DSP, RDO, CTO) Online Form 2026",
+      "organization": {
+        "name": "Andhra Pradesh Public Service Commission",
+        "shortName": "APPSC",
+        "logoText": "APPSC",
+        "badgeColor": "bg-blue-900",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State PSC",
+      "state": "Andhra Pradesh",
+      "qualificationLevel": "GRADUATE",
+      "totalVacancies": 166,
+      "location": "Andhra Pradesh State Administration",
+      "importantDates": {
+        "notificationDate": "26 Sep 2026",
+        "applyStartDate": "26 Sep 2026",
+        "applyEndDate": "20 Nov 2026",
+        "daysRemaining": 14,
+        "examDate": "Prelims: Jan 2027",
+        "admitCardDate": "Jan 2027"
+      },
+      "eligibility": {
+        "education": [
+          "Bachelor’s Degree of any recognized University in India"
+        ],
+        "minAge": 18,
+        "maxAge": 42,
+        "ageRelaxation": "BC/SC/ST: 5 Years | Ex-Servicemen & PwD: As per rules"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Scale of Pay ₹54,060 - ₹1,33,900 (Class-I Gazetted Officer Status)",
+        "applicationFeeGeneral": 250,
+        "applicationFeeReserved": 120
+      },
+      "selectionProcess": [
+        "Screening Test (Objective Type - General Studies & Mental Ability 240 Marks)",
+        "Main Written Examination (Descriptive 5 Conventional Papers)",
+        "Oral Test / Personality Assessment (Interview - 75 Marks)"
+      ],
+      "summary": "Executive Group-I cadre appointments for Deputy Collector, Deputy Superintendent of Police (DSP), Commercial Tax Officer (CTO), and District Registrar.",
+      "links": {
+        "applyUrl": "https://psc.ap.gov.in",
+        "officialPdfUrl": "https://psc.ap.gov.in/Documents/Group1_Notification_2026.pdf",
+        "officialWebsiteUrl": "https://psc.ap.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": false,
+      "viewsCount": 42100
+    },
+    {
+      "id": "wbpsc-clerkship-2026",
+      "slug": "wbpsc-clerkship-recruitment-2026",
+      "title": "WBPSC Clerkship Examination 2026 Online Form (LDA / LDC)",
+      "organization": {
+        "name": "West Bengal Public Service Commission",
+        "shortName": "WBPSC",
+        "logoText": "WB",
+        "badgeColor": "bg-sky-800",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "State Govt",
+      "state": "West Bengal",
+      "qualificationLevel": "10TH",
+      "totalVacancies": 4500,
+      "location": "Secretariat, Directorates & District Offices in West Bengal",
+      "importantDates": {
+        "notificationDate": "25 Sep 2026",
+        "applyStartDate": "25 Sep 2026",
+        "applyEndDate": "15 Nov 2026",
+        "daysRemaining": 13,
+        "examDate": "Part-I: Dec 2026",
+        "admitCardDate": "Dec 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Passed Madhyamik (10th Standard) Examination of WBBSE or equivalent + Elementary knowledge of Computer operation with typing capability"
+        ],
+        "minAge": 18,
+        "maxAge": 40,
+        "ageRelaxation": "OBC of WB: 3 Yrs | SC/ST of WB: 5 Yrs"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Pay Level 6 of ROPA 2019 (₹22,700 - ₹58,500 + Medical & HRA)",
+        "applicationFeeGeneral": 110,
+        "applicationFeeReserved": 0
+      },
+      "selectionProcess": [
+        "Part-I Examination (Objective MCQs: English 30, General Studies 40, Arithmetic 30)",
+        "Part-II Examination (Conventional Written: English & Bengali/Hindi/Urdu/Nepali)",
+        "Elementary Computer Operation and Typing Speed Verification (20 wpm in English)"
+      ],
+      "summary": "WBPSC Clerkship examination for appointment to Lower Division Assistant (LDA) and Lower Division Clerk (LDC) posts in West Bengal Government.",
+      "links": {
+        "applyUrl": "https://psc.wb.gov.in",
+        "officialPdfUrl": "https://psc.wb.gov.in/notifications/Clerkship_2026.pdf",
+        "officialWebsiteUrl": "https://psc.wb.gov.in"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": true,
+      "viewsCount": 39800
+    },
+    {
+      "id": "upessc-assistant-professor-2026",
+      "slug": "upessc-1936-assistant-professor-2026",
+      "title": "UPESSC 1,936 Assistant Professor Online Form 2026",
+      "organization": {
+        "name": "UP Higher Education Services Commission",
+        "shortName": "UPESSC",
+        "logoText": "UP",
+        "badgeColor": "bg-emerald-900",
+        "verified": true
+      },
+      "sector": "GOVERNMENT",
+      "category": "Teaching / State Govt",
+      "state": "Uttar Pradesh",
+      "qualificationLevel": "PG",
+      "totalVacancies": 1936,
+      "location": "Aided Degree Colleges across Uttar Pradesh",
+      "importantDates": {
+        "notificationDate": "20 Sep 2026",
+        "applyStartDate": "20 Sep 2026",
+        "applyEndDate": "24 Oct 2026",
+        "daysRemaining": 1,
+        "examDate": "December 2026",
+        "admitCardDate": "Nov 2026"
+      },
+      "eligibility": {
+        "education": [
+          "Master’s Degree with minimum 55% marks in relevant subject + UGC NET / CSIR NET / SLET Qualified OR Ph.D degree"
+        ],
+        "minAge": 21,
+        "maxAge": 62,
+        "experience": "Fresher / Experienced Academics"
+      },
+      "compensation": {
+        "salaryOrPayScale": "Academic Level 10 (Pay Band ₹15,600 - ₹39,100 + AGP ₹6,000, Gross ~₹85,000/mo)",
+        "applicationFeeGeneral": 2000,
+        "applicationFeeReserved": 1000
+      },
+      "selectionProcess": [
+        "Written Examination (Objective MCQs - General Knowledge 60 Marks + Optional Subject 140 Marks)",
+        "Interview (30 Marks)",
+        "Merit Ranking and College Preference Allotment"
+      ],
+      "summary": "Appointment of 1,936 Assistant Professors in 34 arts, science, and commerce disciplines in non-government aided degree colleges in UP.",
+      "links": {
+        "applyUrl": "https://site.uphesc.org",
+        "officialPdfUrl": "https://site.uphesc.org/advt-assistant-prof-2026.pdf",
+        "officialWebsiteUrl": "https://site.uphesc.org"
+      },
+      "status": "CLOSING_SOON",
+      "isTrending": true,
+      "isNewToday": false,
+      "viewsCount": 36700
+    },
+    {
+      "id": "google-swe-early-2026",
+      "slug": "google-software-engineer-early-career-2026",
+      "title": "Google Early Career Software Engineer (SWE) 2026",
+      "organization": {
+        "name": "Google India",
+        "shortName": "Google",
+        "logoText": "GOOG",
+        "badgeColor": "bg-blue-600",
+        "verified": true
+      },
+      "sector": "PRIVATE",
+      "category": "Software & IT",
+      "state": "All India",
+      "qualificationLevel": "BTECH",
+      "totalVacancies": 150,
+      "location": "Bengaluru / Hyderabad (Hybrid)",
+      "importantDates": {
+        "notificationDate": "02 Oct 2026",
+        "applyStartDate": "02 Oct 2026",
+        "applyEndDate": "15 Nov 2026",
+        "daysRemaining": 13,
+        "examDate": "Rolling Technical Interviews",
+        "admitCardDate": "Direct Calendar Invite"
+      },
+      "eligibility": {
+        "education": [
+          "Bachelor’s or Master’s degree in Computer Science, Engineering or related technical field"
+        ],
+        "experience": "0 - 2 Years of experience with C++, Java, Python, or Go",
+        "skills": [
+          "Data Structures",
+          "Algorithms",
+          "System Design",
+          "C++",
+          "Java",
+          "Python"
+        ]
+      },
+      "compensation": {
+        "salaryOrPayScale": "₹28,00,000 - ₹38,00,000 CTC (Base + Stocks + Annual Bonus)",
+        "applicationFeeGeneral": 0,
+        "applicationFeeReserved": 0,
+        "feeNote": "Zero application fee. Direct official application."
+      },
+      "workMode": "HYBRID",
+      "selectionProcess": [
+        "Online Assessment (Algorithmic problem solving on HackerRank/Google Portal)",
+        "1x Technical Screen (Phone/Meet - 45 mins)",
+        "3x Virtual Onsite Rounds (Data Structures, Algorithms, Coding, Leadership)"
+      ],
+      "summary": "Build products that impact billions of global users. Excellent work environment, health benefits, and equity grants.",
+      "links": {
+        "applyUrl": "https://careers.google.com/jobs/results/early-career-swe-2026",
+        "officialWebsiteUrl": "https://careers.google.com"
+      },
+      "status": "ACTIVE",
+      "isTrending": true,
+      "isNewToday": true,
+      "viewsCount": 41200
+    },
+    {
+      "id": "flipkart-sde-2026",
+      "slug": "flipkart-software-development-engineer-1",
+      "title": "Flipkart Software Development Engineer - 1 (SDE-1)",
+      "organization": {
+        "name": "Flipkart",
+        "shortName": "Flipkart",
+        "logoText": "FK",
+        "badgeColor": "bg-yellow-600",
+        "verified": true
+      },
+      "sector": "PRIVATE",
+      "category": "Software & IT",
+      "state": "Karnataka",
+      "qualificationLevel": "BTECH",
+      "totalVacancies": 40,
+      "location": "Bengaluru, Karnataka",
+      "importantDates": {
+        "notificationDate": "28 Sep 2026",
+        "applyStartDate": "28 Sep 2026",
+        "applyEndDate": "25 Oct 2026",
+        "daysRemaining": 2,
+        "examDate": "Live Coding: Oct 2026"
+      },
+      "eligibility": {
+        "education": [
+          "B.Tech / B.E / M.Tech in CS, IT, ECE or equivalent"
+        ],
+        "experience": "1 - 3 Years backend / distributed systems engineering",
+        "skills": [
+          "Java",
+          "Spring Boot",
+          "Kafka",
+          "Redis",
+          "Microservices",
+          "MySQL"
+        ]
+      },
+      "compensation": {
+        "salaryOrPayScale": "₹18,00,000 - ₹24,00,000 CTC + ESOPs + Insurance",
+        "applicationFeeGeneral": 0,
+        "applicationFeeReserved": 0
+      },
+      "workMode": "ON_SITE",
+      "selectionProcess": [
+        "Machine Coding Round (Low Level Design & Object Oriented Modeling)",
+        "Data Structures & Algorithm Interview",
+        "System Architecture & Hiring Manager Discussion"
+      ],
+      "summary": "Join Flipkart core logistics and checkout infrastructure handling peak festive traffic at 100,000+ RPS.",
+      "links": {
+        "applyUrl": "https://flipkartcareers.com/jobs/sde1-supply-chain-2026",
+        "officialWebsiteUrl": "https://flipkartcareers.com"
+      },
+      "status": "CLOSING_SOON",
+      "isTrending": false,
+      "isNewToday": false,
+      "viewsCount": 22400
+    }
+  ],
+  "admitCards": [
+    {
+      "id": "ac-psssb-clerk-2026",
+      "slug": "psssb-clerk-admit-card-2026",
+      "title": "PSSSB Clerk & Clerk IT / Accounts 2026 Admit Card Released",
+      "organization": {
+        "name": "Punjab Subordinate Services Selection Board",
+        "shortName": "PSSSB",
+        "logoText": "PSB",
+        "badgeColor": "bg-indigo-700"
+      },
+      "sector": "GOVERNMENT",
+      "category": "State Govt / Clerk",
+      "examName": "PSSSB Clerk Written Examination 2026",
+      "examDate": "26 October 2026",
+      "releaseDate": "Today (Active Now)",
+      "status": "OUT_TODAY",
+      "admitCardUrl": "https://sssb.punjab.gov.in",
+      "officialWebsiteUrl": "https://sssb.punjab.gov.in",
+      "instructions": "Enter Application Number and Date of Birth to download admit card. Bring original government ID proof and 2 passport photos to test centre.",
+      "viewsCount": 31200
+    },
+    {
+      "id": "ac-ap-tet-2026",
+      "slug": "ap-tet-hall-ticket-2026",
+      "title": "AP TET 2026 Hall Ticket Download Link Active (Paper-I & Paper-II)",
+      "organization": {
+        "name": "Department of School Education, Andhra Pradesh",
+        "shortName": "AP TET",
+        "logoText": "APT",
+        "badgeColor": "bg-blue-600"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Teaching",
+      "examName": "Andhra Pradesh Teacher Eligibility Test (TET) 2026",
+      "examDate": "03 - 20 November 2026 (Multiple Shifts)",
+      "releaseDate": "Active Now",
+      "status": "RELEASED",
+      "admitCardUrl": "https://aptet.apcfss.in",
+      "officialWebsiteUrl": "https://aptet.apcfss.in",
+      "instructions": "Candidates must verify Candidate ID, exam centre, and shift timing. Gate closes 30 minutes before exam commencement.",
+      "viewsCount": 45800
+    },
+    {
+      "id": "ac-cg-vyapam-teacher-2026",
+      "slug": "cg-vyapam-assistant-teacher-admit-card-2026",
+      "title": "CG Vyapam Assistant Teacher & Teacher 2026 Admit Card Out",
+      "organization": {
+        "name": "Chhattisgarh Professional Examination Board",
+        "shortName": "CG Vyapam",
+        "logoText": "CGV",
+        "badgeColor": "bg-emerald-700"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Teaching",
+      "examName": "CG Vyapam School Education Teacher Recruitment Test",
+      "examDate": "08 November 2026",
+      "releaseDate": "Released Today",
+      "status": "OUT_TODAY",
+      "admitCardUrl": "https://vyapam.cgstate.gov.in",
+      "officialWebsiteUrl": "https://vyapam.cgstate.gov.in",
+      "instructions": "Log in with Registered Mobile Number & Password on CG Vyapam candidate dashboard to generate hall ticket.",
+      "viewsCount": 28900
+    },
+    {
+      "id": "ac-ibps-clerk-16-2026",
+      "slug": "ibps-clerk-csa-16th-pre-admit-card-2026",
+      "title": "IBPS Clerk (CRP CSA-XVI) Preliminary Exam Call Letter 2026",
+      "organization": {
+        "name": "Institute of Banking Personnel Selection",
+        "shortName": "IBPS",
+        "logoText": "IBPS",
+        "badgeColor": "bg-sky-600"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Banking",
+      "examName": "Common Recruitment Process for Clerks (CRP-XVI) Prelims",
+      "examDate": "15, 16 & 22 November 2026",
+      "releaseDate": "Active until 22 Nov 2026",
+      "status": "RELEASED",
+      "admitCardUrl": "https://ibps.in",
+      "officialWebsiteUrl": "https://ibps.in",
+      "instructions": "Paste passport photograph matching application form. Thumb impression and signature must be done in front of test invigilator.",
+      "viewsCount": 62100
+    },
+    {
+      "id": "ac-rrb-technician-2026",
+      "slug": "rrb-technician-admit-card-2026",
+      "title": "RRB Technician (Grade-I & Grade-III) CBT Admit Card & City Slip 2026",
+      "organization": {
+        "name": "Railway Recruitment Boards",
+        "shortName": "RRB",
+        "logoText": "RRB",
+        "badgeColor": "bg-red-600"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Railways",
+      "examName": "CEN 02/2026 Technician Grade-I Signal & Grade-III Computer Based Test",
+      "examDate": "18 - 29 November 2026",
+      "releaseDate": "City Slip Out / Admit Card 4 Days Prior",
+      "status": "EXPECTED_SOON",
+      "admitCardUrl": "https://rrbapply.gov.in",
+      "officialWebsiteUrl": "https://indianrailways.gov.in",
+      "instructions": "Aadhaar biometric authentication will be conducted at exam centre. SC/ST candidates can download Free Travel Authority pass.",
+      "viewsCount": 54300
+    },
+    {
+      "id": "ac-upsc-capf-pet-2026",
+      "slug": "upsc-capf-ac-pet-admit-card-2026",
+      "title": "UPSC CAPF (AC) 2026 Physical Efficiency Test (PET/PST) e-Admit Card",
+      "organization": {
+        "name": "Union Public Service Commission",
+        "shortName": "UPSC",
+        "logoText": "UPSC",
+        "badgeColor": "bg-indigo-900"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Defence / UPSC",
+      "examName": "Central Armed Police Forces (Assistant Commandants) PET/PST 2026",
+      "examDate": "10 - 28 November 2026",
+      "releaseDate": "Available Now",
+      "status": "RELEASED",
+      "admitCardUrl": "https://upsconline.nic.in",
+      "officialWebsiteUrl": "https://upsc.gov.in",
+      "instructions": "Carry 2 sets of attested photocopies of matriculation & degree certificates along with printed PET Call Letter.",
+      "viewsCount": 22100
+    },
+    {
+      "id": "ac-up-police-pet-2026",
+      "slug": "up-police-constable-pet-admit-card-2026",
+      "title": "UP Police Constable 60,244 Posts Physical Standard (DV/PST) Admit Card 2026",
+      "organization": {
+        "name": "UP Police Recruitment & Promotion Board",
+        "shortName": "UPPRPB",
+        "logoText": "UPP",
+        "badgeColor": "bg-blue-900"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Police / State Govt",
+      "examName": "UP Police Constable Direct Recruitment 2026 DV/PST Stage",
+      "examDate": "02 - 18 November 2026",
+      "releaseDate": "Download Active",
+      "status": "RELEASED",
+      "admitCardUrl": "https://uppbpb.gov.in",
+      "officialWebsiteUrl": "https://uppbpb.gov.in",
+      "instructions": "Report strictly at designated Reserve Police Lines in assigned district. Candidates must appear for document verification and height/chest measurement.",
+      "viewsCount": 78500
+    },
+    {
+      "id": "ac-gauhati-hc-2026",
+      "slug": "gauhati-high-court-mts-driver-admit-card-2026",
+      "title": "Gauhati High Court MTS & Driver 2026 Written Examination Admit Card",
+      "organization": {
+        "name": "Gauhati High Court",
+        "shortName": "GHC",
+        "logoText": "GHC",
+        "badgeColor": "bg-slate-700"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Judiciary",
+      "examName": "Gauhati High Court MTS & Driver Written Test",
+      "examDate": "01 November 2026",
+      "releaseDate": "Released Today",
+      "status": "OUT_TODAY",
+      "admitCardUrl": "https://ghconline.gov.in",
+      "officialWebsiteUrl": "https://ghconline.gov.in",
+      "instructions": "Download admit card using Roll No/Registration ID. Blue/Black ballpoint pen mandatory for OMR sheet.",
+      "viewsCount": 14200
+    }
+  ],
+  "results": [
+    {
+      "id": "res-rrb-alp-cbt2-2026",
+      "slug": "rrb-alp-cbt-ii-result-2026",
+      "title": "RRB ALP CBT-II Result 2026 & Scorecard Declared (All Zones)",
+      "organization": {
+        "name": "Railway Recruitment Boards",
+        "shortName": "RRB",
+        "logoText": "RRB",
+        "badgeColor": "bg-red-600"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Railways",
+      "examName": "Assistant Loco Pilot (ALP) 2nd Stage Computer Based Test (CBT-II)",
+      "declarationDate": "Declared Today (07 Oct 2026)",
+      "resultDate": "Declared Today (07 Oct 2026)",
+      "status": "FINAL_RESULT",
+      "resultUrl": "https://rrbapply.gov.in",
+      "officialWebsiteUrl": "https://indianrailways.gov.in",
+      "cutOffMarksSummary": "UR: 68.4 | OBC: 62.8 | SC: 54.2 | ST: 48.9 | EWS: 59.6 (Qualified for CBAT Aptitude Test)",
+      "viewsCount": 67800
+    },
+    {
+      "id": "res-rrb-ministerial-2026",
+      "slug": "rrb-ministerial-and-isolated-category-result-2026",
+      "title": "RRB Ministerial & Isolated Categories (CEN 03) Final Selection Merit List",
+      "organization": {
+        "name": "Railway Recruitment Boards",
+        "shortName": "RRB",
+        "logoText": "RRB",
+        "badgeColor": "bg-red-600"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Railways",
+      "examName": "Ministerial & Isolated Categories Stenographer, Chief Law Asst, Staff Nurse",
+      "declarationDate": "Declared Today",
+      "resultDate": "Declared Today",
+      "status": "FINAL_RESULT",
+      "resultUrl": "https://rrbcdg.gov.in",
+      "officialWebsiteUrl": "https://indianrailways.gov.in",
+      "cutOffMarksSummary": "Category-wise roll number PDF published. Shortlisted candidates invited for final medical examination.",
+      "viewsCount": 24500
+    },
+    {
+      "id": "res-dsssb-asst-supt-2026",
+      "slug": "dsssb-assistant-superintendent-result-2026",
+      "title": "DSSSB Assistant Superintendent & Warder 2026 Written Exam Result Declared",
+      "organization": {
+        "name": "Delhi Subordinate Services Selection Board",
+        "shortName": "DSSSB",
+        "logoText": "DSSSB",
+        "badgeColor": "bg-blue-800"
+      },
+      "sector": "GOVERNMENT",
+      "category": "State Govt / Delhi",
+      "examName": "DSSSB Tier-I Written Exam for Delhi Prison Department",
+      "declarationDate": "06 Oct 2026",
+      "resultDate": "06 Oct 2026",
+      "status": "MERIT_LIST_OUT",
+      "resultUrl": "https://dsssb.delhi.gov.in",
+      "officialWebsiteUrl": "https://dsssb.delhi.gov.in",
+      "cutOffMarksSummary": "UR: 132.50 | OBC: 122.25 | SC: 114.00 | ST: 108.50 | EWS: 128.00 (Out of 200 Marks)",
+      "viewsCount": 31200
+    },
+    {
+      "id": "res-ib-mts-final-2026",
+      "slug": "ib-mts-final-result-2026",
+      "title": "Intelligence Bureau (IB) Security Assistant & MTS Final Selection Result 2026",
+      "organization": {
+        "name": "Intelligence Bureau / MHA",
+        "shortName": "IB / MHA",
+        "logoText": "IB",
+        "badgeColor": "bg-slate-900"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Defence / Central Govt",
+      "examName": "IB SA/Exe & Multi-Tasking Staff (General) Exam 2026",
+      "declarationDate": "05 Oct 2026",
+      "resultDate": "05 Oct 2026",
+      "status": "FINAL_RESULT",
+      "resultUrl": "https://mha.gov.in",
+      "officialWebsiteUrl": "https://mha.gov.in",
+      "cutOffMarksSummary": "Combined merit list based on Tier-I (100 Mks) + Tier-II (50 Mks) + Interview. Offer letters dispatched via registered post.",
+      "viewsCount": 42100
+    },
+    {
+      "id": "res-upsssc-forest-2026",
+      "slug": "upsssc-forest-guard-result-2026-out",
+      "title": "UPSSSC Forest Guard & Wildlife Guard 2026 Final Selection Result Out",
+      "organization": {
+        "name": "UP Subordinate Services Selection Commission",
+        "shortName": "UPSSSC",
+        "logoText": "UPSSSC",
+        "badgeColor": "bg-emerald-800"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Forest / State Govt",
+      "examName": "UPSSSC Van Rakshak & Vanya Jeev Rakshak Exam",
+      "declarationDate": "04 Oct 2026",
+      "resultDate": "04 Oct 2026",
+      "status": "FINAL_RESULT",
+      "resultUrl": "https://upsssc.gov.in",
+      "officialWebsiteUrl": "https://upsssc.gov.in",
+      "cutOffMarksSummary": "General: 138.25 | OBC: 138.25 | SC: 124.75 | ST: 106.50 | Female: 132.00",
+      "viewsCount": 38700
+    },
+    {
+      "id": "res-punjab-police-constable-2026",
+      "slug": "punjab-police-constable-result-2026",
+      "title": "Punjab Police District & Armed Cadre Constable 2026 Scorecard Declared",
+      "organization": {
+        "name": "Punjab Police Recruitment Board",
+        "shortName": "Punjab Police",
+        "logoText": "PBP",
+        "badgeColor": "bg-amber-800"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Police / State Govt",
+      "examName": "Punjab Police Constable Computer Based Test 2026",
+      "declarationDate": "03 Oct 2026",
+      "resultDate": "03 Oct 2026",
+      "status": "SCORECARD_LIVE",
+      "resultUrl": "https://punjabpolice.gov.in",
+      "officialWebsiteUrl": "https://punjabpolice.gov.in",
+      "cutOffMarksSummary": "Normalized marks published on candidate portal. Candidates scoring above cut-off called for Physical Screening Test (PST).",
+      "viewsCount": 51200
+    },
+    {
+      "id": "res-ssc-cgl-final-2025",
+      "slug": "ssc-cgl-final-result-2025-declared",
+      "title": "SSC CGL 2025 Final Result & Department-wise Cut-off Marks Declared",
+      "organization": {
+        "name": "Staff Selection Commission",
+        "shortName": "SSC",
+        "logoText": "SSC",
+        "badgeColor": "bg-blue-600"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Central Govt",
+      "examName": "Combined Graduate Level Examination (CGL), 2025",
+      "declarationDate": "Declared Official Gazette",
+      "resultDate": "Declared Official Gazette",
+      "status": "FINAL_RESULT",
+      "resultUrl": "https://ssc.gov.in/results/cgl-final",
+      "officialWebsiteUrl": "https://ssc.gov.in",
+      "cutOffMarksSummary": "ASO in CSS: 334/390 | Income Tax Inspector: 330/390 | GST Inspector: 318/390 | Auditor: 308/390",
+      "viewsCount": 89400
+    }
+  ],
+  "answerKeys": [
+    {
+      "id": "ak-tnpsc-group1-2026",
+      "slug": "tnpsc-group-1-answer-key-2026",
+      "title": "TNPSC Group 1 (Preliminary) Examination 2026 Tentative Answer Key Out",
+      "organization": {
+        "name": "Tamil Nadu Public Service Commission",
+        "shortName": "TNPSC",
+        "logoText": "TNPSC",
+        "badgeColor": "bg-emerald-900"
+      },
+      "sector": "GOVERNMENT",
+      "category": "State PSC",
+      "examName": "Combined Civil Services Examination-I (Group-I Services) Prelims",
+      "releaseDate": "Today (07 Oct 2026)",
+      "status": "TENTATIVE",
+      "objectionStartDate": "07 Oct 2026",
+      "objectionEndDate": "14 Oct 2026",
+      "answerKeyUrl": "https://tnpsc.gov.in",
+      "officialWebsiteUrl": "https://tnpsc.gov.in",
+      "challengeFee": "₹100 per question challenged with documentary evidence",
+      "instructions": "Candidates can challenge any question through the official Question Challenge Window before 14 October 05:45 PM.",
+      "viewsCount": 29500
+    },
+    {
+      "id": "ak-mpsc-prof-2026",
+      "slug": "mpsc-assistant-professor-final-answer-key-2026",
+      "title": "MPSC Assistant Professor Screening Exam 2026 Final Answer Key Released",
+      "organization": {
+        "name": "Maharashtra Public Service Commission",
+        "shortName": "MPSC",
+        "logoText": "MPSC",
+        "badgeColor": "bg-orange-700"
+      },
+      "sector": "GOVERNMENT",
+      "category": "State PSC",
+      "examName": "Maharashtra Medical & Engineering Colleges Assistant Professor Screening",
+      "releaseDate": "06 Oct 2026",
+      "status": "FINAL",
+      "answerKeyUrl": "https://mpsc.gov.in",
+      "officialWebsiteUrl": "https://mpsc.gov.in",
+      "instructions": "Final key published post-objection review. No further objections will be entertained. Result preparation underway.",
+      "viewsCount": 18200
+    },
+    {
+      "id": "ak-kea-vao-2026",
+      "slug": "kea-vao-answer-key-2026",
+      "title": "KEA Karnataka Village Administrative Officer (VAO) 2026 Provisional Key",
+      "organization": {
+        "name": "Karnataka Examinations Authority",
+        "shortName": "KEA",
+        "logoText": "KEA",
+        "badgeColor": "bg-red-700"
+      },
+      "sector": "GOVERNMENT",
+      "category": "State Govt / Revenue",
+      "examName": "KEA Village Administrative Officer (Revenue Department) Exam",
+      "releaseDate": "05 Oct 2026",
+      "status": "TENTATIVE",
+      "objectionStartDate": "05 Oct 2026",
+      "objectionEndDate": "12 Oct 2026",
+      "answerKeyUrl": "https://cetonline.karnataka.gov.in/kea",
+      "officialWebsiteUrl": "https://kea.kar.nic.in",
+      "challengeFee": "₹100 per objection via KEA objection portal",
+      "instructions": "Upload scanned textbook reference proof justifying the objection. Objections received without valid proof will be rejected.",
+      "viewsCount": 34100
+    },
+    {
+      "id": "ak-wbpsc-misc-2026",
+      "slug": "wbpsc-miscellaneous-answer-key-2026",
+      "title": "WBPSC Miscellaneous Services (Preliminary) 2026 Official Answer Key",
+      "organization": {
+        "name": "West Bengal Public Service Commission",
+        "shortName": "WBPSC",
+        "logoText": "WBPSC",
+        "badgeColor": "bg-sky-800"
+      },
+      "sector": "GOVERNMENT",
+      "category": "State PSC",
+      "examName": "Miscellaneous Services Recruitment (Preliminary) Examination",
+      "releaseDate": "04 Oct 2026",
+      "status": "TENTATIVE",
+      "objectionStartDate": "04 Oct 2026",
+      "objectionEndDate": "11 Oct 2026",
+      "answerKeyUrl": "https://psc.wb.gov.in",
+      "officialWebsiteUrl": "https://psc.wb.gov.in",
+      "instructions": "Check Question Booklet Series (A, B, C, D) keys on WBPSC candidate portal.",
+      "viewsCount": 22600
+    },
+    {
+      "id": "ak-rpsc-apo-2026",
+      "slug": "rpsc-apo-final-answer-key-2026",
+      "title": "RPSC Assistant Prosecution Officer (APO) 2026 Final Answer Key Out",
+      "organization": {
+        "name": "Rajasthan Public Service Commission",
+        "shortName": "RPSC",
+        "logoText": "RPSC",
+        "badgeColor": "bg-rose-800"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Judiciary / State PSC",
+      "examName": "RPSC Assistant Prosecution Officer Competitive Exam 2026",
+      "releaseDate": "04 Oct 2026",
+      "status": "FINAL",
+      "answerKeyUrl": "https://rpsc.rajasthan.gov.in",
+      "officialWebsiteUrl": "https://rpsc.rajasthan.gov.in",
+      "instructions": "4 questions deleted as per expert committee recommendation. Full marks awarded to all candidates for deleted questions.",
+      "viewsCount": 16900
+    },
+    {
+      "id": "ak-ssc-cpo-2026",
+      "slug": "ssc-cpo-tentative-answer-key-2026",
+      "title": "SSC CPO Sub-Inspector in Delhi Police & CAPF 2026 Tentative Answer Key",
+      "organization": {
+        "name": "Staff Selection Commission",
+        "shortName": "SSC",
+        "logoText": "SSC",
+        "badgeColor": "bg-blue-600"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Police / Central Govt",
+      "examName": "Sub-Inspector in Delhi Police and CAPFs Examination, 2026 (Paper-I)",
+      "releaseDate": "Available Now",
+      "status": "TENTATIVE",
+      "objectionStartDate": "Active",
+      "objectionEndDate": "Open for 4 days",
+      "answerKeyUrl": "https://ssc.gov.in/candidate-portal/response-key",
+      "officialWebsiteUrl": "https://ssc.gov.in",
+      "challengeFee": "₹100 per question challenged online via SSC Digi-Portal",
+      "instructions": "Log in using Roll Number and Password (as given in Admit Card) to view question paper and recorded responses.",
+      "viewsCount": 48700
+    }
+  ],
+  "syllabus": [
+    {
+      "id": "syl-wbpsc-clerk-2026",
+      "slug": "wbpsc-clerk-syllabus-and-exam-pattern-2026",
+      "title": "WBPSC Clerkship 2026 Revised Exam Pattern & Subject-wise Syllabus",
+      "organization": {
+        "name": "West Bengal Public Service Commission",
+        "shortName": "WBPSC",
+        "logoText": "WB",
+        "badgeColor": "bg-sky-800"
+      },
+      "sector": "GOVERNMENT",
+      "category": "State Govt",
+      "examName": "West Bengal Clerkship Examination Scheme",
+      "totalMarks": 200,
+      "durationMinutes": 150,
+      "examPattern": {
+        "totalMarks": 200,
+        "duration": "150 Mins",
+        "stages": [
+          "Part-I Objective Test (100 Mks)",
+          "Part-II Descriptive Paper (100 Mks)"
+        ],
+        "negativeMarking": "0.25 Marks per incorrect answer"
+      },
+      "topicsSummary": [
+        "English Language (30 Mks)",
+        "General Studies (40 Mks)",
+        "Arithmetic (30 Mks)",
+        "Descriptive English & Vernacular (100 Mks)"
+      ],
+      "sections": [
+        {
+          "name": "Part-I: English Language (Objective)",
+          "marks": 30,
+          "questionsCount": 30
+        },
+        {
+          "name": "Part-I: General Studies (Objective)",
+          "marks": 40,
+          "questionsCount": 40
+        },
+        {
+          "name": "Part-I: Arithmetic (Objective)",
+          "marks": 30,
+          "questionsCount": 30
+        },
+        {
+          "name": "Part-II: Group-A English (Descriptive)",
+          "marks": 50
+        },
+        {
+          "name": "Part-II: Group-B Bengali/Hindi/Urdu (Descriptive)",
+          "marks": 50
+        }
+      ],
+      "pdfUrl": "https://psc.wb.gov.in/syllabus/Clerkship_Syllabus_2026.pdf",
+      "officialWebsiteUrl": "https://psc.wb.gov.in",
+      "markingScheme": "Part-I: 1 Mark per question, Negative marking 0.25 marks for wrong response. Part-II: Conventional drafting & translation.",
+      "summary": "Official blueprint and syllabus breakdown for WBPSC Clerkship examination.",
+      "viewsCount": 31200
+    },
+    {
+      "id": "syl-nicl-ao-2026",
+      "slug": "nicl-ao-syllabus-and-exam-pattern-2026",
+      "title": "NICL Administrative Officer (AO Scale-I) 2026 Complete Syllabus & Pattern",
+      "organization": {
+        "name": "National Insurance Company Limited",
+        "shortName": "NICL",
+        "logoText": "NICL",
+        "badgeColor": "bg-blue-800"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Insurance / PSU",
+      "examName": "NICL Administrative Officer (Generalist & Specialist) Examination",
+      "totalMarks": 350,
+      "durationMinutes": 180,
+      "examPattern": {
+        "totalMarks": 350,
+        "duration": "180 Mins",
+        "stages": [
+          "Phase-I Preliminary Exam",
+          "Phase-II Mains Examination",
+          "Phase-III Interview"
+        ],
+        "negativeMarking": "1/4th negative marking in objective tests"
+      },
+      "topicsSummary": [
+        "Reasoning & Quantitative Aptitude",
+        "English Language Comprehension",
+        "General Awareness / Specialist Knowledge",
+        "Descriptive Essay & Letter Writing"
+      ],
+      "sections": [
+        {
+          "name": "Prelims: Reasoning Ability",
+          "marks": 35,
+          "questionsCount": 35
+        },
+        {
+          "name": "Prelims: Quantitative Aptitude",
+          "marks": 35,
+          "questionsCount": 35
+        },
+        {
+          "name": "Prelims: English Language",
+          "marks": 30,
+          "questionsCount": 30
+        },
+        {
+          "name": "Mains: Professional Knowledge (Specialists) / General Awareness",
+          "marks": 50,
+          "questionsCount": 50
+        },
+        {
+          "name": "Descriptive Test: Essay & Letter Writing",
+          "marks": 30
+        }
+      ],
+      "pdfUrl": "https://nationalinsurance.nic.co.in/careers/NICL_AO_Syllabus_2026.pdf",
+      "officialWebsiteUrl": "https://nationalinsurance.nic.co.in",
+      "markingScheme": "1/4th negative marking in Prelims & Mains objective tests. Sectional and aggregate cut-offs apply.",
+      "summary": "Curriculum requirements, phase-wise weightage and question patterns for NICL AO recruitment.",
+      "viewsCount": 24700
+    },
+    {
+      "id": "syl-supreme-court-jca-2026",
+      "slug": "supreme-court-jca-syllabus-and-exam-pattern-2026",
+      "title": "Supreme Court Junior Court Assistant (JCA) 2026 Syllabus & Blueprint",
+      "organization": {
+        "name": "Supreme Court of India",
+        "shortName": "SCI",
+        "logoText": "SCI",
+        "badgeColor": "bg-slate-800"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Judiciary",
+      "examName": "Supreme Court JCA Selection Scheme & Typing Benchmark",
+      "totalMarks": 165,
+      "durationMinutes": 165,
+      "examPattern": {
+        "totalMarks": 165,
+        "duration": "165 Mins",
+        "stages": [
+          "Written Objective Test (100 Mks)",
+          "Computer Knowledge (25 Mks)",
+          "English Descriptive (40 Mks)",
+          "Computer Typing Test (35 wpm)"
+        ],
+        "negativeMarking": "1/4th mark deduction per wrong response"
+      },
+      "topicsSummary": [
+        "General English (50 Mks)",
+        "General Aptitude (25 Mks)",
+        "General Knowledge & Constitution (25 Mks)",
+        "Computer Knowledge & Speed Test"
+      ],
+      "sections": [
+        {
+          "name": "General English (Comprehension, Grammar, Vocabulary)",
+          "marks": 50,
+          "questionsCount": 50
+        },
+        {
+          "name": "General Aptitude (Reasoning & Analytical)",
+          "marks": 25,
+          "questionsCount": 25
+        },
+        {
+          "name": "General Knowledge (Polity, Constitution, Currents)",
+          "marks": 25,
+          "questionsCount": 25
+        },
+        {
+          "name": "Computer Knowledge Test",
+          "marks": 25,
+          "questionsCount": 25
+        },
+        {
+          "name": "English Descriptive Paper (Comprehension Passage, Precis Writing, Essay)",
+          "marks": 40
+        }
+      ],
+      "pdfUrl": "https://main.sci.gov.in/pdf/JCA_Syllabus_2026.pdf",
+      "officialWebsiteUrl": "https://main.sci.gov.in",
+      "markingScheme": "Negative marking of 1/4th mark per incorrect answer in objective section. Typing test minimum speed: 35 w.p.m. on computer (10 minutes).",
+      "summary": "Supreme Court Junior Court Assistant complete marks distribution, negative scoring and typing norms.",
+      "viewsCount": 36400
+    },
+    {
+      "id": "syl-ctet-2026",
+      "slug": "ctet-syllabus-2026-paper-1-and-2",
+      "title": "CTET 2026 Complete Syllabus: Paper-I (Primary) & Paper-II (Elementary)",
+      "organization": {
+        "name": "Central Board of Secondary Education",
+        "shortName": "CBSE / CTET",
+        "logoText": "CTET",
+        "badgeColor": "bg-emerald-600"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Teaching",
+      "examName": "Central Teacher Eligibility Test (CTET) 2026",
+      "totalMarks": 150,
+      "durationMinutes": 150,
+      "examPattern": {
+        "totalMarks": 150,
+        "duration": "150 Mins",
+        "stages": [
+          "Paper-I: Class I-V Primary Stage",
+          "Paper-II: Class VI-VIII Elementary Stage"
+        ],
+        "negativeMarking": "No Negative Marking"
+      },
+      "topicsSummary": [
+        "Child Development & Pedagogy (30 Mks)",
+        "Language I & II (60 Mks)",
+        "Mathematics & Science / Social Studies (60 Mks)"
+      ],
+      "sections": [
+        {
+          "name": "Child Development and Pedagogy",
+          "marks": 30,
+          "questionsCount": 30
+        },
+        {
+          "name": "Language I (Compulsory)",
+          "marks": 30,
+          "questionsCount": 30
+        },
+        {
+          "name": "Language II (Compulsory)",
+          "marks": 30,
+          "questionsCount": 30
+        },
+        {
+          "name": "Mathematics / Science OR Social Studies",
+          "marks": 60,
+          "questionsCount": 60
+        }
+      ],
+      "pdfUrl": "https://ctet.nic.in/document/CTET-2026-Information-Bulletin.pdf",
+      "officialWebsiteUrl": "https://ctet.nic.in",
+      "markingScheme": "1 Mark per correct answer. NO negative marking. 60% (90/150) required for general qualifying certificate (valid for life).",
+      "summary": "National syllabus structure and examination blueprint for CTET Primary & Elementary stages.",
+      "viewsCount": 52100
+    },
+    {
+      "id": "syl-ssc-cgl-2026",
+      "slug": "ssc-cgl-2026-revised-exam-pattern-syllabus",
+      "title": "SSC CGL 2026 Revised Exam Pattern & Subject-wise Syllabus (Tier-1 & 2)",
+      "organization": {
+        "name": "Staff Selection Commission",
+        "shortName": "SSC",
+        "logoText": "SSC",
+        "badgeColor": "bg-blue-600"
+      },
+      "sector": "GOVERNMENT",
+      "category": "Central Govt",
+      "examName": "Combined Graduate Level Examination (CGL) 2026 Scheme",
+      "totalMarks": 590,
+      "durationMinutes": 210,
+      "examPattern": {
+        "totalMarks": 590,
+        "duration": "210 Mins",
+        "stages": [
+          "Tier-1: Computer Based Test (200 Mks)",
+          "Tier-2: Mains + DEST Skill Test (390 Mks)"
+        ],
+        "negativeMarking": "Tier-1: 0.50 Mks | Tier-2: 1.00 Mk per wrong answer"
+      },
+      "topicsSummary": [
+        "Reasoning, GA, Quantitative Aptitude & English",
+        "Tier-2 Sectional Modules: Math, Reasoning, English, GA",
+        "Computer Knowledge & Speed DEST Test"
+      ],
+      "sections": [
+        {
+          "name": "Tier-1: General Intelligence & Reasoning",
+          "marks": 50,
+          "questionsCount": 25
+        },
+        {
+          "name": "Tier-1: General Awareness & Science",
+          "marks": 50,
+          "questionsCount": 25
+        },
+        {
+          "name": "Tier-1: Quantitative Aptitude",
+          "marks": 50,
+          "questionsCount": 25
+        },
+        {
+          "name": "Tier-1: English Comprehension",
+          "marks": 50,
+          "questionsCount": 25
+        },
+        {
+          "name": "Tier-2: Mathematical Abilities (Session-I Section-I)",
+          "marks": 90,
+          "questionsCount": 30
+        },
+        {
+          "name": "Tier-2: Reasoning & General Intelligence (Section-I)",
+          "marks": 90,
+          "questionsCount": 30
+        },
+        {
+          "name": "Tier-2: English Language & Comprehension (Section-II)",
+          "marks": 135,
+          "questionsCount": 45
+        },
+        {
+          "name": "Tier-2: General Awareness (Section-II)",
+          "marks": 75,
+          "questionsCount": 25
+        },
+        {
+          "name": "Tier-2: Computer Knowledge Module (Qualifying)",
+          "marks": 60,
+          "questionsCount": 20
+        }
+      ],
+      "pdfUrl": "https://ssc.gov.in/notice/CGL-2026-Syllabus.pdf",
+      "officialWebsiteUrl": "https://ssc.gov.in",
+      "markingScheme": "Tier-1: +2 for correct, -0.50 for wrong (Qualifying). Tier-2: +3 for correct, -1 for wrong. Data Entry Speed Test (DEST) mandatory.",
+      "summary": "SSC CGL 2026 revised syllabus and sectional marking rules across Tier-I & Tier-II examinations.",
+      "viewsCount": 71200
+    }
+  ],
+  "lastSyncedAt": "2026-10-07T05:31:43.928Z"
+}
